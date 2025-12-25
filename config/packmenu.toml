@@ -1,0 +1,25 @@
+[general]
+	# 마인크래프트 기본 로고(JAVA EDITION 포함)를 그릴지 여부입니다.
+	drawJavaLogo = false
+	# 배경 이미지를 그릴지 여부입니다.
+	drawBackground = true
+	# 커스텀 로고를 그릴지 여부입니다.
+	drawLogo = true
+
+[logo]
+	# 로고 파일의 경로입니다. (기본값)
+	logoTexture = "packmenu:textures/gui/logo.png"
+	# 로고의 가로 크기입니다. (우리 로고 비율인 2:1에 맞게 수정했습니다)
+	logoWidth = 512
+	# 로고의 세로 크기입니다.
+	logoHeight = 256
+	# 로고의 화면상 위치 (0은 왼쪽/위, 1은 오른쪽/아래, 0.5는 중앙)
+	anchorX = 0.5
+	anchorY = 0.3
+	# 미세 위치 조정
+	offsetX = 0
+	offsetY = 0
+
+[background]
+	# 배경 이미지 파일의 경로입니다.
+	backgroundTexture = "packmenu:textures/gui/background.png"

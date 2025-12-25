@@ -17,6 +17,10 @@ file = "config/defaultoptions/options.txt.default"
 hash = "e4d00502da06734173149a503565022d4278590cc50a86236e805ac1649f382b"
 
 [[files]]
+file = "config/packmenu.toml"
+hash = "386e057562e18fac6e367d2472246815f63ae16e7594f6f3f0a451379e2f69ca"
+
+[[files]]
 file = "mods/Abundance-1.16.5-1.0.5.jar"
 hash = "01c9671afcec8b78e1b32ee1c73601e66dff237e3695d78132ca1dfe99b429df"
 
@@ -1595,11 +1599,11 @@ hash = "92ff4da23ea2834121c5220c09b500e92aebf6e4cc304db4df82e459a9c1b6c2"
 metafile = true
 
 [[files]]
-file = "packmenu/background.png"
+file = "packmenu/resources/assets/packmenu/textures/gui/background.png"
 hash = "0230f9258af2288e78f4db421f3863327478d5721c05d87aeadaf9c678d030e5"
 
 [[files]]
-file = "packmenu/logo.png"
+file = "packmenu/resources/assets/packmenu/textures/gui/logo.png"
 hash = "e870a139b5cc10205092fab14bd85afe59e1dd34e390beaec32c094bd18f0d79"
 
 [[files]]
