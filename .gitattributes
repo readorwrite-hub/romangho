@@ -1,2 +1,4 @@
+defaultconfigs/* binary
+*.default binary
 *.txt binary
-*.toml text eol=lf
+*.dat binary
