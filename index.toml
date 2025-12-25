@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "89220d3a059bac1a65e755c6b620db82f1d5b8745f1afd7462dfdc84b87f1ce0"
-
-[[files]]
 file = "config/defaultoptions/keybindings.txt.default"
 hash = "89220d3a059bac1a65e755c6b620db82f1d5b8745f1afd7462dfdc84b87f1ce0"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "e4d00502da06734173149a503565022d4278590cc50a86236e805ac1649f382b"
 
 [[files]]
 file = "config/defaultoptions/options.txt.default"
