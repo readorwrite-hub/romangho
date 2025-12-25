@@ -1,13 +1,6 @@
-* text=auto eol=lf
-
-*.toml text eol=lf
-*.txt text eol=lf
-*.json text eol=lf
-
-*.png binary
-*.jpg binary
-*.jar binary
-*.dat binary
-*.default binary
-
 defaultconfigs/* binary
+*.default binary
+*.txt binary
+*.dat binary
+*.toml text eol=lf
+*.png binary

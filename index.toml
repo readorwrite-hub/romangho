@@ -17,10 +17,6 @@ file = "config/defaultoptions/options.txt.default"
 hash = "e4d00502da06734173149a503565022d4278590cc50a86236e805ac1649f382b"
 
 [[files]]
-file = "config/packmenu.toml"
-hash = "4207c8cc932c0551c32b156c53a967e83c63268f80fd40d365000c7416974e9b"
-
-[[files]]
 file = "mods/Abundance-1.16.5-1.0.5.jar"
 hash = "01c9671afcec8b78e1b32ee1c73601e66dff237e3695d78132ca1dfe99b429df"
 
