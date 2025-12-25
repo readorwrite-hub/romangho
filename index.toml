@@ -1,11 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
-file = "defaultconfigs/keybindings.txt"
+file = "defaultconfigs/keybindings.txt.default"
 hash = "89220d3a059bac1a65e755c6b620db82f1d5b8745f1afd7462dfdc84b87f1ce0"
 
 [[files]]
-file = "defaultconfigs/options.txt"
+file = "defaultconfigs/options.txt.default"
 hash = "e4d00502da06734173149a503565022d4278590cc50a86236e805ac1649f382b"
 
 [[files]]
@@ -1590,3 +1590,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "92ff4da23ea2834121c5220c09b500e92aebf6e4cc304db4df82e459a9c1b6c2"
 metafile = true
+
+[[files]]
+file = "servers.dat.default"
+hash = "23a7838bce8eff9c42e1ae6dddb43ee40e98920b5972ee4c303ebef91e5ee1b1"
