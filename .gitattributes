@@ -2,3 +2,5 @@ defaultconfigs/* binary
 *.default binary
 *.txt binary
 *.dat binary
+*.toml text eol=lf
+*.txt text eol=lf
