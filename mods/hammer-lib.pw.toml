@@ -1,0 +1,13 @@
+name = "HammerLib"
+filename = "HammerLib-1.16.5-16.5.50.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "20613d5d6f06e5284eb2a254ad9eeb3cffc1c0a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4952311
+project-id = 247401
