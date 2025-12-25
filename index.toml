@@ -18,7 +18,7 @@ hash = "e4d00502da06734173149a503565022d4278590cc50a86236e805ac1649f382b"
 
 [[files]]
 file = "config/packmenu.toml"
-hash = "fef50cb5c589638b0bf6e680deda21d1f254cff3fb3a7643dba36e7728702ba3"
+hash = "bdf13a274e21de65b36dfab5a8c78c1c78da6f38578ccce20dc22e3dceb7a593"
 
 [[files]]
 file = "mods/Abundance-1.16.5-1.0.5.jar"
@@ -1604,7 +1604,7 @@ hash = "0230f9258af2288e78f4db421f3863327478d5721c05d87aeadaf9c678d030e5"
 
 [[files]]
 file = "openloader/resources/romangho_res/assets/packmenu/textures/gui/logo.png"
-hash = "e870a139b5cc10205092fab14bd85afe59e1dd34e390beaec32c094bd18f0d79"
+hash = "31cf2407e534ef75c6cb220a812f2c290ae90e66442e760497c9406192d588f7"
 
 [[files]]
 file = "openloader/resources/romangho_res/pack.mcmeta"

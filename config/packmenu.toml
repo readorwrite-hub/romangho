@@ -5,7 +5,7 @@
 [logo]
 	logoTexture = "packmenu:textures/gui/logo.png"
 	logoWidth = 512
-	logoHeight = 256
+	logoHeight = 512
 	anchorX = 0.5
 	anchorY = 0.3
 	offsetX = 0
