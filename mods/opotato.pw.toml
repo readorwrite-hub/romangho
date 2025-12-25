@@ -1,0 +1,13 @@
+name = "Opotato"
+filename = "opotato-1.16.5-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "158b94865fb17bf7a5c899de30c7dbcc79ade750"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4796155
+project-id = 834716
