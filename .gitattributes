@@ -1,6 +1,6 @@
-defaultconfigs/* binary
-*.default binary
-*.txt binary
-*.dat binary
+# 모든 파일의 줄바꿈 자동 변환을 끄고 바이너리로 취급 (해시 보존)
+* -text
+
+# packwiz 관련 설정 파일만 줄바꿈을 LF로 고정 (협업/가독성용)
 *.toml text eol=lf
-*.png binary
+index.toml export-ignore
