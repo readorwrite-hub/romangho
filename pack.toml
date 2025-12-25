@@ -1,0 +1,13 @@
+name = "Romangho"
+author = "Rw"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c668792c746fbd5c8c957ae7d446fbc0005208565398ca330093eb5d70f7e35"
+
+[versions]
+forge = "36.2.42"
+minecraft = "1.16.5"
