@@ -1345,11 +1345,6 @@ file = "mods/selene-1.16.5-1.9.0.jar"
 hash = "4681da7861a81fff4258c043aaf356f502de8df8720a775cca6a2d69a59cd307"
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "b4f9abd219e3affcbfd6d592967ce289c5461c404b0c27a5a97c068205ed4c9b"
-metafile = true
-
-[[files]]
 file = "mods/shulker-enchantments.pw.toml"
 hash = "6fb7599d2ee267a19b91ebb12f9b304da9971505da11d271b21745c212c37181"
 metafile = true
