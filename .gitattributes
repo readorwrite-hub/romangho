@@ -1,6 +1,5 @@
-# 모든 파일의 줄바꿈 자동 변환을 끄고 바이너리로 취급 (해시 보존)
+# 모든 파일을 바이너리로 취급하여 Git이 내용을 수정하지 못하게 함
 * -text
 
-# packwiz 관련 설정 파일만 줄바꿈을 LF로 고정 (협업/가독성용)
-*.toml text eol=lf
-index.toml export-ignore
+# (선택 사항) 만약 GitHub 웹사이트에서 소스 코드를 깨끗하게 보고 싶다면 아래만 유지
+# index.toml export-ignore
