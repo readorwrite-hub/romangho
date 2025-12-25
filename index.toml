@@ -1087,11 +1087,6 @@ file = "mods/minetogether-1.16.5-5.1.2-forge.jar"
 hash = "877a62d52105756982953617c066793599fd43bd684581f3c15114330888e45f"
 
 [[files]]
-file = "mods/mirabilis-vanilla-biome-overhaul.pw.toml"
-hash = "ad9a4fca49b2586020e12bb35291a8648d0a7c635573b1237c31f210f7cb8f1d"
-metafile = true
-
-[[files]]
 file = "mods/mod-harmony.pw.toml"
 hash = "88d7a41dfef1b3f01e737b9e31f92a0da9f2489f69040f2a234b6b6c8575731a"
 metafile = true
