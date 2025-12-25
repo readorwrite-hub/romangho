@@ -1,0 +1,16 @@
+[general]
+	drawJavaLogo = false
+	drawBackground = true
+	drawLogo = true
+
+[logo]
+	logoTexture = "packmenu:textures/gui/logo.png"
+	logoWidth = 512
+	logoHeight = 256
+	anchorX = 0.5
+	anchorY = 0.3
+	offsetX = 0
+	offsetY = 0
+
+[background]
+	backgroundTexture = "packmenu:textures/gui/background.png"
