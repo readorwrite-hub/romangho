@@ -1,6 +1,15 @@
-defaultconfigs/* binary
-*.default binary
-*.txt binary
-*.dat binary
+# 기본적으로 모든 파일은 자동으로 감지하되 줄바꿈은 LF로 통일
+* text=auto eol=lf
+
+# 설정 파일들은 명시적으로 텍스트로 지정하고 LF 강제 (Hash 에러 방지 핵심)
 *.toml text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+
+# 이미지 및 데이터 파일들은 바이너리로 취급 (절대 수정 금지)
 *.png binary
+*.jpg binary
+*.jar binary
+*.dat binary
+*.default binary
+defaultconfigs/* binary
