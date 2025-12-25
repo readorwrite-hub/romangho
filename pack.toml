@@ -1,12 +1,12 @@
 name = "Romangho"
 author = "Rw"
-version = "1.0.2"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19a078193ebee813e210796bb3658c0023f59fd58b32555fa0792d5772cbab16"
+hash = "d73bc15b1ceb1a3d6d1fb7483ef1042eb8ff3ed039fc9178d564c3bf3b8a2ca1"
 
 [versions]
 forge = "36.2.42"
