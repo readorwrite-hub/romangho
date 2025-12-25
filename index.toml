@@ -1599,11 +1599,11 @@ hash = "92ff4da23ea2834121c5220c09b500e92aebf6e4cc304db4df82e459a9c1b6c2"
 metafile = true
 
 [[files]]
-file = "resources/assets/packmenu/textures/gui/background.png"
+file = "openloader/resources/custom_assets/assets/packmenu/textures/gui/background.png"
 hash = "0230f9258af2288e78f4db421f3863327478d5721c05d87aeadaf9c678d030e5"
 
 [[files]]
-file = "resources/assets/packmenu/textures/gui/logo.png"
+file = "openloader/resources/custom_assets/assets/packmenu/textures/gui/logo.png"
 hash = "e870a139b5cc10205092fab14bd85afe59e1dd34e390beaec32c094bd18f0d79"
 
 [[files]]
