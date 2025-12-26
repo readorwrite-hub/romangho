@@ -41,6 +41,10 @@ file = "mods/Artifacts-1.16.5-2.10.6.jar"
 hash = "5563c9b47265919361ec9323c5a7a8362429747cdc3449e20023fe1bc39d2436"
 
 [[files]]
+file = "mods/AttributeFix-1.16.5-10.1.4.jar"
+hash = "f7b42c13914392a6d5ab114e3241d094aada6f9241a2c401e4c185410aa25b8c"
+
+[[files]]
 file = "mods/AutoRegLib-1.6-49.jar"
 hash = "2760b765dccf1fad36e74f747ee9b1a2923e2d09eb281c72258c15bb4ed427d5"
 
@@ -1228,6 +1232,10 @@ metafile = true
 file = "mods/placebo.pw.toml"
 hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
 metafile = true
+
+[[files]]
+file = "mods/playerex-1.1.8-1.16.5.jar"
+hash = "aa927564bf0d6f334e013294f27aaad1d617e6556aaf0ce520a3adbc54b00cbd"
 
 [[files]]
 file = "mods/pollen-forge-1.5.0+1.16.5.jar"
