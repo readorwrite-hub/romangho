@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerex-1.1.8-1.16.5.jar"
-hash = "aa927564bf0d6f334e013294f27aaad1d617e6556aaf0ce520a3adbc54b00cbd"
+hash = "b660310f45ce8ff3ba310111c030b5f92cbc62a6e4d9a3a5f8e82c7aa4a8ec66"
 
 [[files]]
 file = "mods/pollen-forge-1.5.0+1.16.5.jar"
