@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/iris.properties"
-hash = "a6a85ae2aa82e7259d553efcecedd4519ba66ce476c26baaa160488c43d70da9"
+hash = "c7386abc5bc60673f2d64cead695b668305329a29ff9891cea4fc873765f6161"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "c91758d7a3223750c7b714ebe87cef37260750d16f2c3f54fc4d37337c7cb022"
+hash = "0f138f84d6823f343baea9677a8b70ae9bd7a8f61db41b8c46b56330eab1d1a1"
+
+[[files]]
+file = "config/fancymenu/customization/romangho_layout.txt"
+hash = "f89e6a7e244aca68b0726de2b020521958732b822c52d4ad859dc08eb04c601f"
 
 [[files]]
 file = "config/fancymenu/images/romangho_bg.png"
