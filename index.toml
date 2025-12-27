@@ -819,10 +819,6 @@ hash = "4b60f12b422644f79786f047c09723dba79cac7c06286f23aa13576803ee2495"
 metafile = true
 
 [[files]]
-file = "mods/fantasyfurniture-1.16.5-2.0.2.jar"
-hash = "025682fdf79c95023ecf44a7311c91c6839d0d141c772bc426e29c3df0ced939"
-
-[[files]]
 file = "mods/farmers-delight-integration.pw.toml"
 hash = "6b0d64eaa1f3d8ee52fc0e965877cfc77026c0c0f234d78316942b2c551c2dc1"
 metafile = true
