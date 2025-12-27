@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c91758d7a3223750c7b714ebe87cef37260750d16f2c3f54fc4d37337c7cb022"
+
+[[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.3.jar"
 hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
 
@@ -287,3 +291,7 @@ hash = "23a7838bce8eff9c42e1ae6dddb43ee40e98920b5972ee4c303ebef91e5ee1b1"
 [[files]]
 file = "servers.dat.default"
 hash = "23a7838bce8eff9c42e1ae6dddb43ee40e98920b5972ee4c303ebef91e5ee1b1"
+
+[[files]]
+file = "shaderpacks/BSL_v10.1p1.zip"
+hash = "aca54360ec808b5c11e9a5bdaa5516ad9eaee494225c0199580103650bf74f59"
