@@ -41,12 +41,20 @@ file = "mods/Artifacts-1.16.5-2.10.6.jar"
 hash = "5563c9b47265919361ec9323c5a7a8362429747cdc3449e20023fe1bc39d2436"
 
 [[files]]
+file = "mods/AttributeFix-1.16.5-10.1.4.jar"
+hash = "f7b42c13914392a6d5ab114e3241d094aada6f9241a2c401e4c185410aa25b8c"
+
+[[files]]
 file = "mods/AutoRegLib-1.6-49.jar"
 hash = "2760b765dccf1fad36e74f747ee9b1a2923e2d09eb281c72258c15bb4ed427d5"
 
 [[files]]
 file = "mods/Bayou-Blues-1.16.5-1.0.5.jar"
 hash = "f4d588e84dff72ebc3981e552f0bb3cec1f1a18c8cdefa017648d9fc54786351"
+
+[[files]]
+file = "mods/Better Skills 1.8.0 [1.16.5].jar"
+hash = "d150eb1a494a4d294753d0bc54d32ff14d2230822c5bc6fd1b0b245c1af8de91"
 
 [[files]]
 file = "mods/Better-Badlands-1.16.5-2.0.3.jar"
@@ -247,6 +255,10 @@ hash = "679871ebb48940ca98c1cbfa05827d577096b466bea17d74e02d872a18742912"
 [[files]]
 file = "mods/ToastControl-1.16.5-4.4.0.jar"
 hash = "f58bacf8ee6599b46634acf4805ef1c098c2537e420d988f5df77c58a319ecad"
+
+[[files]]
+file = "mods/TreeChop-1.16.4-0.14.6-fixed.jar"
+hash = "9a537813a092206108d0ef83a5d99fb02ad25c26f3a6257db7adf7aa2f0b69d5"
 
 [[files]]
 file = "mods/Waystones_1.16.5-7.6.4.jar"
@@ -807,6 +819,10 @@ hash = "4b60f12b422644f79786f047c09723dba79cac7c06286f23aa13576803ee2495"
 metafile = true
 
 [[files]]
+file = "mods/fantasyfurniture-1.16.5-2.0.2.jar"
+hash = "025682fdf79c95023ecf44a7311c91c6839d0d141c772bc426e29c3df0ced939"
+
+[[files]]
 file = "mods/farmers-delight-integration.pw.toml"
 hash = "6b0d64eaa1f3d8ee52fc0e965877cfc77026c0c0f234d78316942b2c551c2dc1"
 metafile = true
@@ -1088,6 +1104,10 @@ metafile = true
 file = "mods/mantle.pw.toml"
 hash = "7edc90a4c9d38b882798d87a444e87893597bcab46a9e5226c8f83d9515c895c"
 metafile = true
+
+[[files]]
+file = "mods/mcw-mcwstairs-1.0.2-mc1.16.5forge.jar"
+hash = "2c9b0cbe5d05e14dfa5b5a3a3c4928e190bba5fc6121d954b24fa283774bbf90"
 
 [[files]]
 file = "mods/memoryleakfix-forge-pre1.17-1.0.0.jar"
