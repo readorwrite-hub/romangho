@@ -434,11 +434,6 @@ hash = "4e1d751372638e0b334e8b4fe90dd8534a36270aa3f750b766059a93da263e83"
 metafile = true
 
 [[files]]
-file = "mods/better-fps-render-distance.pw.toml"
-hash = "749e52c33512544a2d8457706d71fb146f95f275bf678b0adde7d7017e6e88ab"
-metafile = true
-
-[[files]]
 file = "mods/betterfpsdist-1.2.jar"
 hash = "02af47e907b36f802818e62472811ea3b668da9bb23645120ca090707376f529"
 
@@ -1281,15 +1276,6 @@ metafile = true
 [[files]]
 file = "mods/rawironandgoldupdate.jar"
 hash = "a1f2b30a46a1492115430f08a731195e1e9f331154be425a04b09d8963bb23b0"
-
-[[files]]
-file = "mods/redirector-1.16.5-1.6.0-forge.jar"
-hash = "be1734cd407126c738837bbdfca8ca8d3999c236deb0c27a62a7a13321647d4b"
-
-[[files]]
-file = "mods/redirector.pw.toml"
-hash = "eb86c9ad12435cac7008aea5a05d0ba963c1c621b96aa571fa205fa3244cd9b5"
-metafile = true
 
 [[files]]
 file = "mods/rendertypecache-1.16.5-0.0.1.jar"
