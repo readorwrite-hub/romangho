@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/iris.properties"
+hash = "a6a85ae2aa82e7259d553efcecedd4519ba66ce476c26baaa160488c43d70da9"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "c91758d7a3223750c7b714ebe87cef37260750d16f2c3f54fc4d37337c7cb022"
 
