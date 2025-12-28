@@ -185,6 +185,10 @@ file = "mods/bookshelf-neoforge-1.21.1-21.1.80.jar"
 hash = "59a49a5bd7c6e294b00eed4d6e085d3b8fa0cc30278aff8d9634845becf0d8ac"
 
 [[files]]
+file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar"
+hash = "07418cca73aa3020edd1f3da548648afc532fe2b01822a0405eb3672c16639a6"
+
+[[files]]
 file = "mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
 hash = "b18c734fb574c05c78dd33c4cd4c152e55efc8aecc0b6de876cc21be3c147f7f"
 
