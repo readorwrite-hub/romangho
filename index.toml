@@ -10,11 +10,11 @@ hash = "d16d31af49c45af4e8b371efa066e0a16a262e6afb575415b16450a7e96fa2c5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "37146f115a9fab9c661f827793e87ee168c625ae0d9292eeadad589f8c07642a"
+hash = "fa102f4c8ad755158726fe8d6ee3d61daec90a20f343a662b1b5cb95ce0e2fdf"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt.default"
-hash = "37146f115a9fab9c661f827793e87ee168c625ae0d9292eeadad589f8c07642a"
+hash = "fa102f4c8ad755158726fe8d6ee3d61daec90a20f343a662b1b5cb95ce0e2fdf"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -85,6 +85,10 @@ file = "config/iris.properties"
 hash = "346d31902bb27ca558038f5f72558add5f87788941c9e1191c46cb37bb042194"
 
 [[files]]
+file = "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar"
+hash = "91f8d7d2e873739be576bf89a54aa2d999a38455d3660405338767e311e3a0c4"
+
+[[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.3.jar"
 hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
 
@@ -103,6 +107,10 @@ hash = "06f4334e23b3561c10c0425531a56df3aefbb193c26140fbd9c85ea08c5c48d5"
 [[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+
+[[files]]
+file = "mods/TreeChop-1.21.1-neoforge-0.19.3.jar"
+hash = "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
 
 [[files]]
 file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"

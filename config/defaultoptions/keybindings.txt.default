@@ -7,7 +7,7 @@ key_key.right:key.keyboard.d:
 key_key.jump:key.keyboard.space:
 key_key.sneak:key.keyboard.left.control:
 key_key.sprint:key.keyboard.left.shift:
-key_key.drop:key.keyboard.q:
+key_key.drop:key.keyboard.unknown:
 key_key.inventory:key.keyboard.e:
 key_key.chat:key.keyboard.enter:
 key_key.playerlist:key.keyboard.tab:
@@ -46,14 +46,14 @@ key_iris.keybind.wireframe:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b:
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c:
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:
 key_key.carry.desc:key.keyboard.unknown:
 key_key.curios.open.desc:key.keyboard.g:
-key_accessories.key.open_accessories_screen:key.keyboard.h:
+key_accessories.key.open_accessories_screen:key.keyboard.unknown:
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown:
@@ -89,7 +89,7 @@ key_key.journeymap.toggle_entity_names:key.keyboard.unknown:
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown:
 key_artifacts.key.charm_of_shrinking.toggle:key.keyboard.unknown:
 key_artifacts.key.charm_of_sinking.toggle:key.keyboard.unknown:
-key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown:
+key_artifacts.key.night_vision_goggles.toggle:key.keyboard.n:
 key_artifacts.key.scarf_of_invisibility.toggle:key.keyboard.unknown:
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown:
 key_key.jade.config:key.keyboard.keypad.0:
@@ -97,6 +97,7 @@ key_key.jade.show_overlay:key.keyboard.keypad.1:
 key_key.jade.toggle_liquid:key.keyboard.keypad.2:
 key_key.jade.narrate:key.keyboard.unknown:
 key_key.jade.show_details:key.keyboard.left.shift:
+key_keybinds.combat_roll.roll:key.keyboard.left.alt:
 key_key.inventoryhud.toggle:key.keyboard.i:
 key_key.inventoryhud.openconfig:key.keyboard.o:
 key_key.inventoryhud.togglepot:key.keyboard.unknown:
