@@ -221,6 +221,10 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/default_skill_trees-1.1.jar"
+hash = "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
+
+[[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar"
 hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
 
@@ -343,10 +347,6 @@ hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 [[files]]
 file = "mods/repurposed_structures-7.5.17+1.21.1-neoforge.jar"
 hash = "8299ac9bedb488d65bae351d529caad6a9072dc59f46bc50d599525efa882a34"
-
-[[files]]
-file = "mods/skill_tree-neoforge-1.2.2+1.21.1.jar"
-hash = "26827f8aa7edfe1601da63c89d342b214ac27cf29c6399c7445f60a5229ab68e"
 
 [[files]]
 file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
