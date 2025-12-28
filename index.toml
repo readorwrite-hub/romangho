@@ -10,11 +10,11 @@ hash = "d16d31af49c45af4e8b371efa066e0a16a262e6afb575415b16450a7e96fa2c5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fa102f4c8ad755158726fe8d6ee3d61daec90a20f343a662b1b5cb95ce0e2fdf"
+hash = "de419d7382cb180a110413d288b8e2b17a9f5915c66a4f6b086956f0665403a0"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt.default"
-hash = "fa102f4c8ad755158726fe8d6ee3d61daec90a20f343a662b1b5cb95ce0e2fdf"
+hash = "de419d7382cb180a110413d288b8e2b17a9f5915c66a4f6b086956f0665403a0"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
