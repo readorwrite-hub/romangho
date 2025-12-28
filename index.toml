@@ -33,6 +33,10 @@ file = "config/defaultoptions/servers.dat.default"
 hash = "3f243f23601d561db4807d6f8476cc238fac33fe3186f1eff69310158777f8c9"
 
 [[files]]
+file = "config/fancymenu/assets/romangho_2.png"
+hash = "fb892e55cba963759979857d451baa8e2b1642248fa7360a4c67d98cb5088ccb"
+
+[[files]]
 file = "config/fancymenu/assets/romangho_bg.png"
 hash = "7d516c199c92950e0a0c78980dd71bf416297a326ddc7bfe04762b6a567e2368"
 
@@ -46,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/romangho_layout.txt"
-hash = "27d96b45d99c4bcb019097115bd53acad75e44618e43b55ddd1e31a823604c11"
+hash = "7ea64961aa50d078bfdbdf10da2f508b5db701b64ec56e2c543a88df9b310823"
 
 [[files]]
 file = "config/fancymenu/images/romangho_bg.png"
@@ -54,7 +58,7 @@ hash = "7d516c199c92950e0a0c78980dd71bf416297a326ddc7bfe04762b6a567e2368"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
