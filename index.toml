@@ -257,6 +257,10 @@ file = "mods/geckolib-neoforge-1.21.1-4.8.2.jar"
 hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
 
 [[files]]
+file = "mods/hyperbox-1.21-6.0.0.1.jar"
+hash = "b55543002b185d79cb2b3d9001616bcf6f743d2ed4aa39a9280456dc4f60db8c"
+
+[[files]]
 file = "mods/immersive_armors-1.7.5+1.21.1-neoforge.jar"
 hash = "69a2a6482d446529e2c402ab94da7abd4a1ab63acb08578575ebdd166fe76b13"
 
@@ -335,10 +339,6 @@ hash = "57cc24f8c899198fc24bf103786a4058a35aefe59e69230c50008ff1c32dea77"
 [[files]]
 file = "mods/player-animation-lib-forge-2.0.1+1.21.1.jar"
 hash = "15ef231ca57ad2a237a3760dd9aa17b34926fc6e8bf07564434969534c70aa3e"
-
-[[files]]
-file = "mods/pocketdimentions-10.1-neoforge-1.21.1.jar"
-hash = "bcabdde1dc8dddf0172df70f2c4781afd22c3da8155c783ec8865eaaf15656b0"
 
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
