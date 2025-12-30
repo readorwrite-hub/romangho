@@ -89,6 +89,10 @@ file = "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar"
 hash = "91f8d7d2e873739be576bf89a54aa2d999a38455d3660405338767e311e3a0c4"
 
 [[files]]
+file = "mods/FarmersDelight-1.21.1-1.2.9.jar"
+hash = "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f"
+
+[[files]]
 file = "mods/Jade-1.21.1-NeoForge-15.10.3.jar"
 hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
 
@@ -331,6 +335,10 @@ hash = "57cc24f8c899198fc24bf103786a4058a35aefe59e69230c50008ff1c32dea77"
 [[files]]
 file = "mods/player-animation-lib-forge-2.0.1+1.21.1.jar"
 hash = "15ef231ca57ad2a237a3760dd9aa17b34926fc6e8bf07564434969534c70aa3e"
+
+[[files]]
+file = "mods/pocketdimentions-10.1-neoforge-1.21.1.jar"
+hash = "bcabdde1dc8dddf0172df70f2c4781afd22c3da8155c783ec8865eaaf15656b0"
 
 [[files]]
 file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
