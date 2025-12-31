@@ -10,11 +10,11 @@ hash = "d16d31af49c45af4e8b371efa066e0a16a262e6afb575415b16450a7e96fa2c5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "de419d7382cb180a110413d288b8e2b17a9f5915c66a4f6b086956f0665403a0"
+hash = "9032cf8646b7fc6e2fa57ecd4557c63013aff571bccd76942207c0e7897c4158"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt.default"
-hash = "de419d7382cb180a110413d288b8e2b17a9f5915c66a4f6b086956f0665403a0"
+hash = "9032cf8646b7fc6e2fa57ecd4557c63013aff571bccd76942207c0e7897c4158"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -253,10 +253,6 @@ file = "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
 hash = "6328049755735159c55f5918ac301cff53a8d8790c3fe63e32e7d8a0e37f123f"
 
 [[files]]
-file = "mods/cristellib-neoforge-1.21.1-3.0.2.1.jar"
-hash = "bb3ac15b080320e4da25ffb44c5a7a528ddd7bf7a16e567831048bd13e0528bb"
-
-[[files]]
 file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
@@ -475,14 +471,6 @@ hash = "57b6a44b111d7a085fdfc3d05dd1f9a1b1d50128416ad7498ff998d479860188"
 [[files]]
 file = "mods/spell_power-neoforge-1.4.6+1.21.1.jar"
 hash = "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
-
-[[files]]
-file = "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
-hash = "925d61a8cee8ca013bac15cda2fcfbdf647eb1cde50c414c18298ea3a627c640"
-
-[[files]]
-file = "mods/tectonic-3.0.19-neoforge-1.21.1.jar"
-hash = "3d590c2c9c88a7f59639aca1ac213edcd6c780f9cbe4f13d95d6069fd540e7a1"
 
 [[files]]
 file = "mods/torchmaster-neoforge-1.21.1-21.1.9.jar"

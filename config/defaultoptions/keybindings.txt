@@ -32,6 +32,7 @@ key_key.hotbar.6:key.keyboard.6:
 key_key.hotbar.7:key.keyboard.7:
 key_key.hotbar.8:key.keyboard.8:
 key_key.hotbar.9:key.keyboard.9:
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown:
 key_key.puffish_skills.open:key.keyboard.k:
 key_treechop.key.toggle_chopping:key.keyboard.unknown:
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown:
@@ -41,19 +42,20 @@ key_keybind.sophisticatedcore.sort:key.mouse.middle:
 key_keybind.sophisticatedcore.deposit_item:key.keyboard.apostrophe:
 key_keybind.sophisticatedcore.restock_item:key.keyboard.backslash:
 key_neat.keybind.toggle:key.keyboard.unknown:
+key_key.gravelminer.toggle:key.keyboard.unknown:
 key_key.modernfix.config:key.keyboard.unknown:
 key_iris.keybind.reload:key.keyboard.r:
 key_iris.keybind.toggleShaders:key.keyboard.unknown:
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown:
 key_iris.keybind.wireframe:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b:
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c:
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown:
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:
 key_key.carry.desc:key.keyboard.unknown:
 key_key.curios.open.desc:key.keyboard.g:
 key_Scene1 start/pause:key.keyboard.unknown:
@@ -61,8 +63,9 @@ key_Scene2 start/pause:key.keyboard.unknown:
 key_Scene3 start/pause:key.keyboard.unknown:
 key_Scene reset:key.keyboard.unknown:
 key_Quest Log:key.keyboard.unknown:
-key_accessories.key.open_accessories_screen:key.keyboard.unknown:
-key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt:
+key_accessories.key.open_accessories_screen:key.keyboard.h:
+key_key.hooked.fire:key.keyboard.c:
+key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_1:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_2:key.keyboard.unknown:
 key_keybindings.spell_engine.spell_hotbar_3:key.keyboard.unknown:
@@ -106,6 +109,7 @@ key_key.jade.toggle_liquid:key.keyboard.keypad.2:
 key_key.jade.narrate:key.keyboard.unknown:
 key_key.jade.show_details:key.keyboard.left.shift:
 key_keybinds.combat_roll.roll:key.keyboard.left.alt:
+key_legendarytooltips.key.scrollTooltips:key.keyboard.left.shift:
 key_key.inventoryhud.toggle:key.keyboard.i:
 key_key.inventoryhud.openconfig:key.keyboard.o:
 key_key.inventoryhud.togglepot:key.keyboard.unknown:
