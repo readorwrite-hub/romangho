@@ -213,6 +213,10 @@ file = "mods/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash = "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
 
 [[files]]
+file = "mods/azurelib-neo-1.21.1-3.1.3.jar"
+hash = "7dbfa716368d3d116dde579803af8b433dd824cdd79bc07d56192ca6520237ec"
+
+[[files]]
 file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "eba756d2e0a5e1a06e0c2ec0c45db06f4e15da37f9e63c08f66f8ecb4cf2dd7d"
 
@@ -233,6 +237,10 @@ file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
+file = "mods/collective-1.21.1-8.13.jar"
+hash = "d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f"
+
+[[files]]
 file = "mods/combat_roll-neoforge-2.0.6+1.21.1.jar"
 hash = "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17"
 
@@ -251,6 +259,14 @@ hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 [[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar"
 hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
+
+[[files]]
+file = "mods/doubledoors-1.21.1-7.2.jar"
+hash = "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
+
+[[files]]
+file = "mods/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
+hash = "0c489fe95e9de57e6ba6439e97bc8b0fb54f7de11d8df89a7829711ad379af01"
 
 [[files]]
 file = "mods/dungeons-and-taverns-v4.4.4.jar"
@@ -321,12 +337,16 @@ file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
 
 [[files]]
+file = "mods/lambdynamiclights-4.8.7+1.21.1.jar"
+hash = "30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b"
+
+[[files]]
 file = "mods/librarianlib-5.0.0-neoforge.jar"
 hash = "6bd6ccfe2ddf74e0f0f3fac31b22da32380ae0345938ae8c9df85d44a9c7bb3b"
 
 [[files]]
-file = "mods/limitless-neoforge-2.0.0-1.21.1.jar"
-hash = "839fffc7a7c87f34b7fcd9c0cb56df87469f34cd089228d0ce703cdbb7aa1d4d"
+file = "mods/lithium-neoforge-0.15.1+mc1.21.1.jar"
+hash = "fadc7b1985c7a770c14eb3bca76c4d643e57793b2f9e69c6d168b0313ebf615c"
 
 [[files]]
 file = "mods/lithostitched-1.5.7-neoforge-1.21.1.jar"
@@ -421,8 +441,16 @@ file = "mods/repurposed_structures-7.5.17+1.21.1-neoforge.jar"
 hash = "8299ac9bedb488d65bae351d529caad6a9072dc59f46bc50d599525efa882a34"
 
 [[files]]
+file = "mods/rpg_attribute_system-2.0.0hf-neoforge-1.21.1.jar"
+hash = "f74fcbafad37de382ac8e80311360fa8893eef73230c39e3badfca4e7274ef99"
+
+[[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
 hash = "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864"
+
+[[files]]
+file = "mods/smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
+hash = "423d81eaeccf32088ed0b42a3a1c0976695fa5ab99c2b6b1d4c5706537fcbf62"
 
 [[files]]
 file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
@@ -447,6 +475,10 @@ hash = "57b6a44b111d7a085fdfc3d05dd1f9a1b1d50128416ad7498ff998d479860188"
 [[files]]
 file = "mods/spell_power-neoforge-1.4.6+1.21.1.jar"
 hash = "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
+
+[[files]]
+file = "mods/swingthrough-1.0.5+1.21.jar"
+hash = "0c29ce4166261f3f995a3a9c47753050983662a4086846ed524a1fe2ecd13353"
 
 [[files]]
 file = "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
