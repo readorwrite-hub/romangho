@@ -93,6 +93,10 @@ file = "mods/DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar"
 hash = "9a9f604c29e41bdfcc1706ffd7c93b8dc09862424f390ebb3e4adf0799677b3c"
 
 [[files]]
+file = "mods/EnchantingInfuser-v21.1.3-1.21.1-NeoForge.jar"
+hash = "48662ca0cd523b3efb8d6d5a8cc396652d388fe6698f7a37e180b116074dbc63"
+
+[[files]]
 file = "mods/FarmersDelight-1.21.1-1.2.9.jar"
 hash = "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f"
 
@@ -123,6 +127,10 @@ hash = "06f4334e23b3561c10c0425531a56df3aefbb193c26140fbd9c85ea08c5c48d5"
 [[files]]
 file = "mods/Prism-1.21.1-neoforge-1.0.11.jar"
 hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+
+[[files]]
+file = "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
 
 [[files]]
 file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
@@ -241,10 +249,6 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
-file = "mods/default_skill_trees-1.1.jar"
-hash = "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
-
-[[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar"
 hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
 
@@ -281,6 +285,10 @@ file = "mods/geckolib-neoforge-1.21.1-4.8.2.jar"
 hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
 
 [[files]]
+file = "mods/gravelminer-neoforge-1.21.1-21.1.1.jar"
+hash = "38317cfff8e0aaa381a079147eaa57f3714f9fdd97752428b0c4171a97bc9fb5"
+
+[[files]]
 file = "mods/hooked-neoforge-2.0.2.jar"
 hash = "93789765b76c6be6c560993fb1359a9e0e4a9779d3f1ed0872e7020ac7a31b5d"
 
@@ -315,6 +323,10 @@ hash = "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
 [[files]]
 file = "mods/librarianlib-5.0.0-neoforge.jar"
 hash = "6bd6ccfe2ddf74e0f0f3fac31b22da32380ae0345938ae8c9df85d44a9c7bb3b"
+
+[[files]]
+file = "mods/limitless-neoforge-2.0.0-1.21.1.jar"
+hash = "839fffc7a7c87f34b7fcd9c0cb56df87469f34cd089228d0ce703cdbb7aa1d4d"
 
 [[files]]
 file = "mods/lithostitched-1.5.7-neoforge-1.21.1.jar"
@@ -361,6 +373,10 @@ file = "mods/melody_neoforge_1.0.10_MC_1.21.jar"
 hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
 
 [[files]]
+file = "mods/miningspeedtooltips-neoforge-1.0.0-1.21.1.jar"
+hash = "4b2688ce540cb09eabba0420ff956155b1c1f69159302aeb3b96f7a656d3e6ab"
+
+[[files]]
 file = "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
 hash = "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d"
 
@@ -391,10 +407,6 @@ hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 [[files]]
 file = "mods/puffish_attributes-0.8.0-1.21-neoforge.jar"
 hash = "a95f6c95e96183dd7e75ef5a3e860e7f7e26410dd2bf8bc40c0dcd84abd4b0fd"
-
-[[files]]
-file = "mods/puffish_skills-0.17.1-1.21-neoforge.jar"
-hash = "dfcb568d576b2ba4cdc339bd8d6ba70c7b842772496b5affb333de374abe2737"
 
 [[files]]
 file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
