@@ -329,6 +329,10 @@ file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar"
 hash = "f1d6b029e969104743a5a37b7ef4b5fe3321780c110d92ce6b11d144c74775cd"
 
 [[files]]
+file = "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+hash = "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
+
+[[files]]
 file = "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
 hash = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
 
