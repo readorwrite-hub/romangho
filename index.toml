@@ -197,6 +197,10 @@ file = "mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar"
 hash = "7a3f655c1593b14424b678b5f06c6f87374b8551aa7496dae5e64143ae5a59b0"
 
 [[files]]
+file = "mods/adventurerskills-1.2-1.21.1-neoforge.jar"
+hash = "c154eb0dbd4696eff0fe5608901ee2f630586a4c9742ded660ea32a4d1f0290b"
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.7.jar"
 hash = "99a2f1b22f05b1215c6c967c0cf0518a39d30e18a94ac3dac248385e38dcfe10"
 
@@ -263,10 +267,6 @@ hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
 [[files]]
 file = "mods/doubledoors-1.21.1-7.2.jar"
 hash = "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
-
-[[files]]
-file = "mods/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar"
-hash = "0c489fe95e9de57e6ba6439e97bc8b0fb54f7de11d8df89a7829711ad379af01"
 
 [[files]]
 file = "mods/dungeons-and-taverns-v4.4.4.jar"
@@ -433,6 +433,10 @@ file = "mods/puffish_attributes-0.8.0-1.21-neoforge.jar"
 hash = "a95f6c95e96183dd7e75ef5a3e860e7f7e26410dd2bf8bc40c0dcd84abd4b0fd"
 
 [[files]]
+file = "mods/puffish_skills-0.17.1-1.21-neoforge.jar"
+hash = "dfcb568d576b2ba4cdc339bd8d6ba70c7b842772496b5affb333de374abe2737"
+
+[[files]]
 file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
 hash = "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
 
@@ -443,10 +447,6 @@ hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 [[files]]
 file = "mods/repurposed_structures-7.5.17+1.21.1-neoforge.jar"
 hash = "8299ac9bedb488d65bae351d529caad6a9072dc59f46bc50d599525efa882a34"
-
-[[files]]
-file = "mods/rpg_attribute_system-2.0.0hf-neoforge-1.21.1.jar"
-hash = "f74fcbafad37de382ac8e80311360fa8893eef73230c39e3badfca4e7274ef99"
 
 [[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
