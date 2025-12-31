@@ -325,6 +325,10 @@ file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
+file = "mods/jauml-1.1.0-neoforge-1.21.1.jar"
+hash = "517f9d1b6ddcc44952f4663ef2a2d9a0e0dfbf20d2834ec15010e96eb2b30783"
+
+[[files]]
 file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar"
 hash = "f1d6b029e969104743a5a37b7ef4b5fe3321780c110d92ce6b11d144c74775cd"
 
@@ -475,10 +479,6 @@ hash = "57b6a44b111d7a085fdfc3d05dd1f9a1b1d50128416ad7498ff998d479860188"
 [[files]]
 file = "mods/spell_power-neoforge-1.4.6+1.21.1.jar"
 hash = "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
-
-[[files]]
-file = "mods/swingthrough-1.0.5+1.21.jar"
-hash = "0c29ce4166261f3f995a3a9c47753050983662a4086846ed524a1fe2ecd13353"
 
 [[files]]
 file = "mods/t_and_t-neoforge-fabric-1.13.7+1.21.1.jar"
