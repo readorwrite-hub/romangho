@@ -461,6 +461,10 @@ file = "mods/torchmaster-neoforge-1.21.1-21.1.9.jar"
 hash = "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
 
 [[files]]
+file = "mods/txnilib-neoforge-1.0.24-1.21.1.jar"
+hash = "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
+
+[[files]]
 file = "mods/waystones-neoforge-1.21.1-21.1.25.jar"
 hash = "53cf4c5ca2ee9b30246008e9d8ca4fb084a4527ce9fc26ec4d916a9cba6dba07"
 
