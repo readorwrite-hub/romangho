@@ -97,18 +97,6 @@ file = "mods/FarmersDelight-1.21.1-1.2.9.jar"
 hash = "bdc8dea5ea3f1ee81494a4587a6aef88976d942294a8ceddc3287cf0436bfd4f"
 
 [[files]]
-file = "mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
-hash = "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
-
-[[files]]
-file = "mods/Jade-1.21.1-NeoForge-15.10.3.jar"
-hash = "7087a9672a208071e774571423793d499a56adc8dd09fabe36f8652a3bb9c418"
-
-[[files]]
-file = "mods/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
-hash = "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493"
-
-[[files]]
 file = "mods/MoreMobGriefingOptions-1.21.1-3.0.0.jar"
 hash = "1e79e349f40a62ae02d0bc9872aefaf0f614be7b4a4c954005e2da628566c28a"
 
@@ -117,12 +105,12 @@ file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
 
 [[files]]
-file = "mods/Neat-1.21-40-NEOFORGE.jar"
-hash = "06f4334e23b3561c10c0425531a56df3aefbb193c26140fbd9c85ea08c5c48d5"
+file = "mods/Multiworld-NeoForged-1.21.1.jar"
+hash = "0742824c8d00d4fd0ec819e1ce294c41a80b96ff2641e4f69fbba910f827edce"
 
 [[files]]
-file = "mods/Prism-1.21.1-neoforge-1.0.11.jar"
-hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+file = "mods/Neat-1.21-40-NEOFORGE.jar"
+hash = "06f4334e23b3561c10c0425531a56df3aefbb193c26140fbd9c85ea08c5c48d5"
 
 [[files]]
 file = "mods/PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
@@ -131,38 +119,6 @@ hash = "305c828c171a5b52867b56686665b525bcf286018496ece81f376806794ba914"
 [[files]]
 file = "mods/TreeChop-1.21.1-neoforge-0.19.3.jar"
 hash = "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
-
-[[files]]
-file = "mods/YungsApi-1.21.1-NeoForge-5.1.6.jar"
-hash = "08e1d21690d3213a4c62de6b6cf79f3527afb2e72e0cad0e1848d46eb8f682ca"
-
-[[files]]
-file = "mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
-hash = "61816c3b7c9d92c6b44f93dce87ceb0a22827f20285d5d9c4d10d519d734de04"
-
-[[files]]
-file = "mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
-hash = "a0d57b78c7a1891796f342b1f09c214bc27bedf0a3a894f029dfdb2db9f813d0"
-
-[[files]]
-file = "mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
-hash = "5625930dfb3240820d6e4ecf55fff0c39f70ce782fad117a4d418251184c7be0"
-
-[[files]]
-file = "mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
-hash = "a9cab2fc01538368862365691f7d215309801aed0b390351681b6b60a1db7b58"
-
-[[files]]
-file = "mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
-hash = "888b1e6d1ada21982a75abfb4afb040c9bc2cc68777ec5fcd1199b978e3d4f8d"
-
-[[files]]
-file = "mods/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
-hash = "bf93a85422a6b457358c3b56352641a97ec09cc37dec18b2cedcac2bd1ff9bec"
-
-[[files]]
-file = "mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
-hash = "0cd26474e514f5dc3114aaf5ec7e049bcd285f0c5db191bb45223193f35df70d"
 
 [[files]]
 file = "mods/accessories-neoforge-1.1.0-beta.52+1.21.1.jar"
@@ -189,10 +145,6 @@ file = "mods/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash = "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
 
 [[files]]
-file = "mods/azurelib-neo-1.21.1-3.1.3.jar"
-hash = "7dbfa716368d3d116dde579803af8b433dd824cdd79bc07d56192ca6520237ec"
-
-[[files]]
 file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "eba756d2e0a5e1a06e0c2ec0c45db06f4e15da37f9e63c08f66f8ecb4cf2dd7d"
 
@@ -205,20 +157,12 @@ file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar"
 hash = "07418cca73aa3020edd1f3da548648afc532fe2b01822a0405eb3672c16639a6"
 
 [[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.2.11.jar"
-hash = "b18c734fb574c05c78dd33c4cd4c152e55efc8aecc0b6de876cc21be3c147f7f"
-
-[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
 [[files]]
 file = "mods/collective-1.21.1-8.13.jar"
 hash = "d183b2e301c61c346a7b787beadbe880b92626e08d9ff11585e88fd00c67bf3f"
-
-[[files]]
-file = "mods/combat_roll-neoforge-2.0.6+1.21.1.jar"
-hash = "4904ae4c392d51c431c915822d817de608fd524632021ce417a17ce1a0185f17"
 
 [[files]]
 file = "mods/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
@@ -229,12 +173,12 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
-file = "mods/custom_clear_lag-1.0.5-1-neoforge-1.21.1.jar"
-hash = "4e900ec3e79dee7e36103771098ec8e8f2507d9ff39257e8cef937cd3eba4766"
-
-[[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar"
 hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
+
+[[files]]
+file = "mods/dimensionspawn-neoforge-1.21.1-1.1.0.jar"
+hash = "fe4a246dcc513cfe6b8d16a5ca4d06ad412e93e6cb564b463f5a7aa5f19cdf7a"
 
 [[files]]
 file = "mods/doubledoors-1.21.1-7.2.jar"
@@ -243,10 +187,6 @@ hash = "947cc425dba61a003fc6cfc9ce6bb87dbef1f2d4561701235eb2fed6073b72ff"
 [[files]]
 file = "mods/enchdesc-neoforge-1.21.1-21.1.9.jar"
 hash = "74d546ecb147da7e2cb53fe3115f6e062094329dcf15639b3da694cc00d3f843"
-
-[[files]]
-file = "mods/enhanced_attack_indicator-1.1.1+1.21-forge.jar"
-hash = "359fdadc315c55e84d91ad3f8837a2b5890039ff7cd44fae662725ce38672e80"
 
 [[files]]
 file = "mods/fancymenu_neoforge_3.8.1_MC_1.21.1.jar"
@@ -261,28 +201,12 @@ file = "mods/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar"
 hash = "d2ab54c332781b1d7bbaec8f071281989e186d8022cf397c3e25d2ae532be0b2"
 
 [[files]]
-file = "mods/framework-neoforge-1.21.1-0.13.6.jar"
-hash = "1fe747d28614d72797e8478f109d3bafac4e07b845da57228adb1a6305ba0fd1"
-
-[[files]]
-file = "mods/geckolib-neoforge-1.21.1-4.8.2.jar"
-hash = "a733757157bd914b56a24c09d2797c522f0f339eb5e45ec1d70a8a9326ecd9df"
-
-[[files]]
-file = "mods/gravelminer-neoforge-1.21.1-21.1.1.jar"
-hash = "38317cfff8e0aaa381a079147eaa57f3714f9fdd97752428b0c4171a97bc9fb5"
-
-[[files]]
 file = "mods/hooked-neoforge-2.0.2.jar"
 hash = "93789765b76c6be6c560993fb1359a9e0e4a9779d3f1ed0872e7020ac7a31b5d"
 
 [[files]]
 file = "mods/hyperbox-1.21-6.0.0.1.jar"
 hash = "b55543002b185d79cb2b3d9001616bcf6f743d2ed4aa39a9280456dc4f60db8c"
-
-[[files]]
-file = "mods/immersive_armors-1.7.5+1.21.1-neoforge.jar"
-hash = "69a2a6482d446529e2c402ab94da7abd4a1ab63acb08578575ebdd166fe76b13"
 
 [[files]]
 file = "mods/inventoryhud.neoforged.1.21.1-3.4.28.jar"
@@ -293,10 +217,6 @@ file = "mods/iris-neoforge-1.8.12+mc1.21.1.jar"
 hash = "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83"
 
 [[files]]
-file = "mods/jauml-1.1.0-neoforge-1.21.1.jar"
-hash = "517f9d1b6ddcc44952f4663ef2a2d9a0e0dfbf20d2834ec15010e96eb2b30783"
-
-[[files]]
 file = "mods/journeymap-neoforge-1.21.1-6.0.0-beta.53.jar"
 hash = "f1d6b029e969104743a5a37b7ef4b5fe3321780c110d92ce6b11d144c74775cd"
 
@@ -305,20 +225,8 @@ file = "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
 hash = "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
 
 [[files]]
-file = "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
-hash = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
-
-[[files]]
 file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
-
-[[files]]
-file = "mods/lambdynamiclights-4.8.7+1.21.1.jar"
-hash = "30ce0c25f703d1a53540359447f11d35b411f5c75481555b0dc45ffa8d62006b"
-
-[[files]]
-file = "mods/librarianlib-5.0.0-neoforge.jar"
-hash = "6bd6ccfe2ddf74e0f0f3fac31b22da32380ae0345938ae8c9df85d44a9c7bb3b"
 
 [[files]]
 file = "mods/lithium-neoforge-0.15.1+mc1.21.1.jar"
@@ -329,40 +237,12 @@ file = "mods/lootr-neoforge-1.21.1-1.11.36.108.jar"
 hash = "e186a6f4596a5d2900e2c19632c9ea13e390f0553b99c46f86f50a0717abe912"
 
 [[files]]
-file = "mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar"
-hash = "9a140c6a1014f1f80b887fc629a4e1ef9ff3036b07a27803dcf44d32dd543b91"
-
-[[files]]
 file = "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar"
 hash = "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88"
 
 [[files]]
-file = "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
-hash = "e4b0e5a5b67decc2285e71f017fb4f60284796fa0838de3edeaf6b7cb0395735"
-
-[[files]]
-file = "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar"
-hash = "f04b51518f75c8a7d5fe1be5589dbcb8a7b0d4f67373ca903578804d971b1286"
-
-[[files]]
 file = "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
 hash = "177fe382ff22caa14983d862ead2717321315a5e4afa778d245e9acd2f61608d"
-
-[[files]]
-file = "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
-hash = "8970c40ec622edd34c9b055226b403af08ab441c77303a6dc625ae18005f8184"
-
-[[files]]
-file = "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar"
-hash = "25c79def993a24b05b0f8494ee9417717d469bc000d5ed7c219b47dcc3b3e9c8"
-
-[[files]]
-file = "mods/melody_neoforge_1.0.10_MC_1.21.jar"
-hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
-
-[[files]]
-file = "mods/miningspeedtooltips-neoforge-1.0.0-1.21.1.jar"
-hash = "4b2688ce540cb09eabba0420ff956155b1c1f69159302aeb3b96f7a656d3e6ab"
 
 [[files]]
 file = "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
@@ -373,8 +253,8 @@ file = "mods/modnametooltip-1.21.1-neoforge-2.3.0.jar"
 hash = "41ae4040808e06f796d53dd4f68df266c1a6f5230b915fd16e359965c826467f"
 
 [[files]]
-file = "mods/overloadedarmorbar-neoforge-1.21-2.jar"
-hash = "d9c809d62e4dac5e2dabfd6c672bbe47e89e41f680d0937aa59e49f7f65ff405"
+file = "mods/notrample-1.21.1-1.0.1.jar"
+hash = "59d481a2d8031dc2ea3eb2a4a5bd9c45fce19f0c7f89f09227d888f7040a2397"
 
 [[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
@@ -385,14 +265,6 @@ file = "mods/picaxe-1.21.1-neoforge-1.0.9.jar"
 hash = "57cc24f8c899198fc24bf103786a4058a35aefe59e69230c50008ff1c32dea77"
 
 [[files]]
-file = "mods/player-animation-lib-forge-2.0.1+1.21.1.jar"
-hash = "15ef231ca57ad2a237a3760dd9aa17b34926fc6e8bf07564434969534c70aa3e"
-
-[[files]]
-file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
-hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
-
-[[files]]
 file = "mods/puffish_attributes-0.8.0-1.21-neoforge.jar"
 hash = "a95f6c95e96183dd7e75ef5a3e860e7f7e26410dd2bf8bc40c0dcd84abd4b0fd"
 
@@ -401,20 +273,8 @@ file = "mods/puffish_skills-0.17.1-1.21-neoforge.jar"
 hash = "dfcb568d576b2ba4cdc339bd8d6ba70c7b842772496b5affb333de374abe2737"
 
 [[files]]
-file = "mods/ranged_weapon_api-neoforge-2.3.3+1.21.1.jar"
-hash = "49f439f6b771aeecebeeacc1e920761ba75a8da6ce71026e18412af06ec66405"
-
-[[files]]
-file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
-hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
-
-[[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
 hash = "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864"
-
-[[files]]
-file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
-hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.20.1470.jar"
@@ -429,20 +289,8 @@ file = "mods/sophisticatedstorage-1.21.1-1.5.18.1405.jar"
 hash = "4eb3a36f7bca9030434e242aec603444921f37c65e329271098eeab1a83ec869"
 
 [[files]]
-file = "mods/spell_engine-neoforge-1.8.16+1.21.1.jar"
-hash = "57b6a44b111d7a085fdfc3d05dd1f9a1b1d50128416ad7498ff998d479860188"
-
-[[files]]
-file = "mods/spell_power-neoforge-1.4.6+1.21.1.jar"
-hash = "b5457fd85e36e839b5d18c215ac1d113ae5d3e1a8dbc48a342d906a93da9a380"
-
-[[files]]
 file = "mods/torchmaster-neoforge-1.21.1-21.1.9.jar"
 hash = "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
-
-[[files]]
-file = "mods/txnilib-neoforge-1.0.24-1.21.1.jar"
-hash = "411e811a6a53a63c2716dbf71cd1167e3a98d000b884458759d6192720be3e18"
 
 [[files]]
 file = "mods/waystones-neoforge-1.21.1-21.1.25.jar"

@@ -1,12 +1,12 @@
 name = "Romangho"
 author = "Rw"
-version = "1.0.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "423db83577ce4b9f6e721d6bbd1b1e40744204da51e4e95a43d5820bcea934ae"
+hash = "f63bdabe4e829112e89587ea098a8bbba5537b531b84e527b1f5044ba86d74d1"
 
 [versions]
 minecraft = "1.21.1"
