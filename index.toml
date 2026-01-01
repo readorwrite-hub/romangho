@@ -233,6 +233,10 @@ file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
 hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
+file = "mods/custom_clear_lag-1.0.5-1-neoforge-1.21.1.jar"
+hash = "4e900ec3e79dee7e36103771098ec8e8f2507d9ff39257e8cef937cd3eba4766"
+
+[[files]]
 file = "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar"
 hash = "a42f0ff542725b5a56b82f5e8ad064ba778392e3f81e2b8b2c0a48f3712c2fc3"
 
