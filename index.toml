@@ -225,6 +225,10 @@ file = "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
 hash = "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
 
 [[files]]
+file = "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+hash = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+
+[[files]]
 file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
 
@@ -247,6 +251,10 @@ hash = "819fda8059b210e9de8b9275c8b8e0d931054af5a5ad47771c72d9fd4ab85e88"
 [[files]]
 file = "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
 hash = "177fe382ff22caa14983d862ead2717321315a5e4afa778d245e9acd2f61608d"
+
+[[files]]
+file = "mods/melody_neoforge_1.0.10_MC_1.21.jar"
+hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
 
 [[files]]
 file = "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar"
@@ -283,6 +291,10 @@ hash = "dfcb568d576b2ba4cdc339bd8d6ba70c7b842772496b5affb333de374abe2737"
 [[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
 hash = "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864"
+
+[[files]]
+file = "mods/sodium-neoforge-0.6.13+mc1.21.1.jar"
+hash = "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
 
 [[files]]
 file = "mods/sophisticatedbackpacks-1.21.1-3.25.20.1470.jar"
