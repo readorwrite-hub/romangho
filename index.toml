@@ -229,6 +229,10 @@ file = "mods/kotlinforforge-5.10.0-all.jar"
 hash = "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
 
 [[files]]
+file = "mods/librarianlib-5.0.0-neoforge.jar"
+hash = "6bd6ccfe2ddf74e0f0f3fac31b22da32380ae0345938ae8c9df85d44a9c7bb3b"
+
+[[files]]
 file = "mods/lithium-neoforge-0.15.1+mc1.21.1.jar"
 hash = "fadc7b1985c7a770c14eb3bca76c4d643e57793b2f9e69c6d168b0313ebf615c"
 
@@ -263,6 +267,10 @@ hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
 [[files]]
 file = "mods/picaxe-1.21.1-neoforge-1.0.9.jar"
 hash = "57cc24f8c899198fc24bf103786a4058a35aefe59e69230c50008ff1c32dea77"
+
+[[files]]
+file = "mods/prickle-neoforge-1.21.1-21.1.11.jar"
+hash = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
 
 [[files]]
 file = "mods/puffish_attributes-0.8.0-1.21-neoforge.jar"
