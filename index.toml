@@ -85,6 +85,18 @@ file = "config/iris.properties"
 hash = "346d31902bb27ca558038f5f72558add5f87788941c9e1191c46cb37bb042194"
 
 [[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "59f5dbc03eef9ebf1ec7c61d74bf384b0f6cfa54ed42c1e3519a702f778d6cdf"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "76775785063db9aeedbde0ff26f2983e52525ff632098a1fcd85014ef5572588"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "9794ee2304254b0d1bb8c472235228650f861b1c4f2898a8be3bdec84a26df8e"
+
+[[files]]
 file = "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20250917.jar"
 hash = "91f8d7d2e873739be576bf89a54aa2d999a38455d3660405338767e311e3a0c4"
 
@@ -205,6 +217,10 @@ file = "mods/forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar"
 hash = "d2ab54c332781b1d7bbaec8f071281989e186d8022cf397c3e25d2ae532be0b2"
 
 [[files]]
+file = "mods/framework-neoforge-1.21.1-0.13.6.jar"
+hash = "1fe747d28614d72797e8478f109d3bafac4e07b845da57228adb1a6305ba0fd1"
+
+[[files]]
 file = "mods/hooked-neoforge-2.0.2.jar"
 hash = "93789765b76c6be6c560993fb1359a9e0e4a9779d3f1ed0872e7020ac7a31b5d"
 
@@ -291,6 +307,10 @@ hash = "a95f6c95e96183dd7e75ef5a3e860e7f7e26410dd2bf8bc40c0dcd84abd4b0fd"
 [[files]]
 file = "mods/puffish_skills-0.17.1-1.21-neoforge.jar"
 hash = "dfcb568d576b2ba4cdc339bd8d6ba70c7b842772496b5affb333de374abe2737"
+
+[[files]]
+file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
+hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 
 [[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
