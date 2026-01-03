@@ -333,6 +333,10 @@ file = "mods/sophisticatedstorage-1.21.1-1.5.18.1405.jar"
 hash = "4eb3a36f7bca9030434e242aec603444921f37c65e329271098eeab1a83ec869"
 
 [[files]]
+file = "mods/tablist-1.2.jar"
+hash = "b18f0b75ba4bfc29a3333c04df7e2e15e2fe362b6b7fe8316c94b38868ef5405"
+
+[[files]]
 file = "mods/torchmaster-neoforge-1.21.1-21.1.9.jar"
 hash = "db9a2fa385757656797a5a14ffad1777fbe596e2e443f1deba5f7534706eb806"
 
