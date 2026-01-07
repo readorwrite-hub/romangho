@@ -165,6 +165,10 @@ file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
 hash = "eba756d2e0a5e1a06e0c2ec0c45db06f4e15da37f9e63c08f66f8ecb4cf2dd7d"
 
 [[files]]
+file = "mods/baublechocobo-0.1-1.21.1.jar"
+hash = "10264f9db3253a848300a3b36002956d8280095c7ab827c38b21c683b2a11633"
+
+[[files]]
 file = "mods/baublemounts-1.1.3c-1.21.1.jar"
 hash = "99399e70c29a04aca5d7d01b8bbf76be6ae4d5f1003165af59700678c5b99653"
 
@@ -175,6 +179,10 @@ hash = "59a49a5bd7c6e294b00eed4d6e085d3b8fa0cc30278aff8d9634845becf0d8ac"
 [[files]]
 file = "mods/caramelChat-mc1.21.1-neoforge-1.2.2.jar"
 hash = "07418cca73aa3020edd1f3da548648afc532fe2b01822a0405eb3672c16639a6"
+
+[[files]]
+file = "mods/chococraft-1.21.1-neoforge-0.11.11.jar"
+hash = "8d8be29e3ecafa152397aa7061bdba5fc85c111dc3662b93d86e0df5b120f3a3"
 
 [[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
