@@ -10,11 +10,11 @@ hash = "d16d31af49c45af4e8b371efa066e0a16a262e6afb575415b16450a7e96fa2c5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "9032cf8646b7fc6e2fa57ecd4557c63013aff571bccd76942207c0e7897c4158"
+hash = "cd418860ea353b0e1c8d198b44bff443ff3743628331c3bb7780629fa932fabf"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt.default"
-hash = "9032cf8646b7fc6e2fa57ecd4557c63013aff571bccd76942207c0e7897c4158"
+hash = "cd418860ea353b0e1c8d198b44bff443ff3743628331c3bb7780629fa932fabf"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -159,6 +159,10 @@ hash = "b666075d627021c98f7c07fb55676d35ea594700e157a295179384c2a9ecb622"
 [[files]]
 file = "mods/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash = "b2b20f3d44e824071284c14de3f4d3323d420e1c450040b339a5c37d2c382ad4"
+
+[[files]]
+file = "mods/auto_third_person-neo-1.21.1-2.2.jar"
+hash = "6b73aaf8aa5427949b1c1a462ab9ec5f1711b0a03b92041c48a86b0dd87aed76"
 
 [[files]]
 file = "mods/balm-neoforge-1.21.1-21.0.55.jar"
