@@ -317,6 +317,10 @@ file = "mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
 hash = "d2fad0e9f710de93c247cdc79e6eb486ccb4b6cdc55e29a2373f54cb6900f0ac"
 
 [[files]]
+file = "mods/sdmuilibrary-neoforge-1.21-1.9.2.jar"
+hash = "48487e8ba37cbe7efbd69492c892c5574bbedb427b4dad921f17a98526692873"
+
+[[files]]
 file = "mods/simplehats-neoforge-1.21.1-0.4.0.jar"
 hash = "227c366601509a62493c6b0a7ef3b3ff8941d2d85a1714fc18835e2a55021864"
 
