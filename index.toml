@@ -185,10 +185,6 @@ file = "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar"
 hash = "6b45bbaa330321705dca8543a5dee53aefcbcc68c507f8ca8445a957d186e53f"
 
 [[files]]
-file = "mods/dcintegration-fabric-MC1.21.11-3.1.0.2.jar"
-hash = "adb7ff46f2c56848a5d7e28765a8cbc8b1057b30b4aefc9ad87ab22e9a004c46"
-
-[[files]]
 file = "mods/defaultoptions-fabric-1.21.11-21.11.1.jar"
 hash = "de6a0df95b1d270750f3155af5bfc1a612c057a4b9420f485e996be827d7f1c3"
 
