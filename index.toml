@@ -185,6 +185,10 @@ file = "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar"
 hash = "6b45bbaa330321705dca8543a5dee53aefcbcc68c507f8ca8445a957d186e53f"
 
 [[files]]
+file = "mods/dcintegration-fabric-MC1.21.11-3.1.0.2.jar"
+hash = "adb7ff46f2c56848a5d7e28765a8cbc8b1057b30b4aefc9ad87ab22e9a004c46"
+
+[[files]]
 file = "mods/defaultoptions-fabric-1.21.11-21.11.1.jar"
 hash = "de6a0df95b1d270750f3155af5bfc1a612c057a4b9420f485e996be827d7f1c3"
 
@@ -207,6 +211,10 @@ hash = "c270fe93930acf42179ac923fd7287280ac566e878a2f2f190c2b65fb7315a22"
 [[files]]
 file = "mods/easy_npc_config_ui-fabric-1.21.11-6.7.1.jar"
 hash = "34b222e90431337b1981eb603f7be8fd747c1f6798bfd0de495a70ca74bfc53c"
+
+[[files]]
+file = "mods/entity-health-bars-1.0.7.jar"
+hash = "e5669496711f5a04e3aa7cc4e66caffdbaa5e6cbba6c8317ace743b37b18c4b3"
 
 [[files]]
 file = "mods/entity_model_features_1.21.11-fabric-3.0.10.jar"
@@ -259,6 +267,10 @@ hash = "ffa5080cb089e7c5bd564521fb2aed9e80635ea709576e04515fe640350cbf75"
 [[files]]
 file = "mods/konkrete_fabric_1.9.14_MC_1.21.11.jar"
 hash = "4a3b51449373c4df48de304db50667084802ad6ecdf3ed677a6e86e22a1d332f"
+
+[[files]]
+file = "mods/lambdynamiclights-4.9.1+1.21.11.jar"
+hash = "99bcfbb13cbd7c98ec9574c2959a1c6a145aac26efed54bcb32ebf08abf9282c"
 
 [[files]]
 file = "mods/lithostitched-1.5.7-fabric-1.21.11.jar"
