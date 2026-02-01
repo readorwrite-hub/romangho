@@ -33,6 +33,54 @@ file = "config/defaultoptions/servers.dat.default"
 hash = "3f243f23601d561db4807d6f8476cc238fac33fe3186f1eff69310158777f8c9"
 
 [[files]]
+file = "config/easy_npc/skin/humanoid/1c1b644dcc857509.png"
+hash = "0d4209c7482f49fb1de63fc38aed65dd1071326a0846564b7a2dd7f690f59da9"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/28826f5169e8f0d0.png"
+hash = "5ca364da33ce2e25827ed79ae16c7afa5358808066e892268a185564e742d013"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/3523ed3910ae942f.png"
+hash = "369c37df8b73cd45b4dbf307d8c0b9d34a6e62baa0523429a9bf8dc4446ad928"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/430be4d4c3c93f48.png"
+hash = "e1724ffebb36214331121e3e1bab97f987b1660948dd53fbf0dff64d1be0f692"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/6181073e500beadb.png"
+hash = "a358ed21e692b56c684b9f3325f8a3b268e99a1d3429d04f4e13ad26248461ce"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/7ebd023cecbc6d3d.png"
+hash = "46b706a4cec160e2d1d4e576487d0550c28116c3ff2cbfc624df60ad2df04f10"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/8b3fae5a3361e7c7.png"
+hash = "fad661eb7466dfce2481a0a12cb9efc6e676344f6ac26b2da23e42361f7e4c66"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/9a0504c92bc89784.png"
+hash = "6eb09a0c4901719bb6dbea89a59ed357a4827e3d44a6d86489c063df11096f9c"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/bcad2d5e95a617dc.png"
+hash = "13c6f42d01489ee9670e416df790e71a821c6cef0e79c661efc1075ea9431238"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/e5107a8c89006975.png"
+hash = "3f98bf9ca07aa0f61ab1bb5377f2dc5abcc1d58c2c3b8a7b0ebc1f0b34ec8b80"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/e83b6fc3dcaa18e9.png"
+hash = "716e4d06d76a38dc020354413eb6a8edae289ba04446be3768e3bcf22d0528c2"
+
+[[files]]
+file = "config/easy_npc/skin/humanoid/humanoid_template.png"
+hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
+
+[[files]]
 file = "config/fancymenu/assets/romangho3.png"
 hash = "bd038e223752d93f307e30b5ab164d794877b16453b27e7f58f28f120fa8825f"
 
