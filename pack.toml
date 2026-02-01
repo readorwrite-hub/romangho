@@ -1,6 +1,6 @@
-name = "Romangho"
+name = "Romangho3"
 author = "Rw"
-version = "1.1.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "f7e252ca5ba0c1c96de88e151a4a25415b999f9518fe50150f15cc1b7bfdbb70"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.217"
+fabric = "0.18.4"
+minecraft = "1.21.11"
