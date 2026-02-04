@@ -1,4 +1,4 @@
-name = "songpacks/genshin.zip"
+name = "genshin"
 filename = "GenshinImpactOST-v1.1.zip"
 side = "client"
 
@@ -8,4 +8,5 @@ hash-format = "sha256"
 hash = "10f3ac23bb26f2fdaed8e672e8bdd950ab1fa00173ca86d4f2327e7de1c2f722"
 
 [install]
-path = "songpacks"
+# 설정 파일이 있는 현재 폴더(songpacks)에 바로 설치하겠다는 뜻입니다.
+path = "."

@@ -406,11 +406,6 @@ file = "mods/sodium-fabric-0.8.4+mc1.21.11.jar"
 hash = "96b81f512e032f0c3835b5bcfbb5f9778066b88725c40af9a8221c755a0d0a87"
 
 [[files]]
-file = "mods/songpacks-genshin-zip.pw.toml"
-hash = "68c8e6fc2f8fad5f25f13dfd99427a0f9dc8604a84daadcac10540d89ec1bc3a"
-metafile = true
-
-[[files]]
 file = "mods/sounds-2.4.22+edge+1.21.11-fabric.jar"
 hash = "25864efeceab5ad40d5ced2d64e50d8ea0027bed5e5f6e42db7c03e5461a68ec"
 
@@ -458,3 +453,8 @@ hash = "23a7838bce8eff9c42e1ae6dddb43ee40e98920b5972ee4c303ebef91e5ee1b1"
 [[files]]
 file = "shaderpacks/BSL_v10.1p1.zip"
 hash = "aca54360ec808b5c11e9a5bdaa5516ad9eaee494225c0199580103650bf74f59"
+
+[[files]]
+file = "songpacks/genshin.pw.toml"
+hash = "a598c11498a840a1344929e81cd4c4184fa58d5767b6eeda023493dfde0162a1"
+metafile = true
