@@ -181,10 +181,6 @@ file = "mods/PuzzlesLib-v21.11.6-mc1.21.11-Fabric.jar"
 hash = "bae4fe81da04d73c6623782b072245b532e8a5918d5ab596ec908f52a830aa3a"
 
 [[files]]
-file = "mods/Terralith_1.21.x_v2.5.14.jar"
-hash = "de62c588e6f97fe2a0923c90541b9162fecca0f5fd87abaeb09a5ebe5420db7f"
-
-[[files]]
 file = "mods/[Fabric]ctov-1.21.11-3.6.1a.jar"
 hash = "f6ec389736b5d6bc734779170b621fb242f54b9c163fe9a3bb987b81f41b9b23"
 
@@ -420,10 +416,6 @@ hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
 [[files]]
 file = "mods/t_and_t-fabric-neoforge-1.13.8.jar"
 hash = "5421b29d3a85b5241abbc68e4219ae0df4ad25642ba97053513fa7c353e9bdc7"
-
-[[files]]
-file = "mods/tectonic-3.0.19-fabric-1.21.11.jar"
-hash = "a745907c5f2e5fdb1a0786fa32ce00a03890e30f1b87e6c0ea10caa07dc29ad6"
 
 [[files]]
 file = "mods/trashslot-fabric-1.21.11-21.11.4.jar"
