@@ -1,8 +1,11 @@
 name = "songpacks/genshin.zip"
 filename = "GenshinImpactOST-v1.1.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "http://168.107.19.121/GenshinImpactOST-v1.1.zip"
 hash-format = "sha256"
 hash = "10f3ac23bb26f2fdaed8e672e8bdd950ab1fa00173ca86d4f2327e7de1c2f722"
+
+[install]
+path = "songpacks"
