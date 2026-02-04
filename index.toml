@@ -82,7 +82,7 @@ hash = "b96aee293379a6a60a0e862dc338eb6a14ea31929b4f78d9923eb6b60940106c"
 
 [[files]]
 file = "config/fancymenu/assets/romangho3.png"
-hash = "bd038e223752d93f307e30b5ab164d794877b16453b27e7f58f28f120fa8825f"
+hash = "4881798467e8d75fad76a230335a85aaaddea9be21f32917be620d01287aed2c"
 
 [[files]]
 file = "config/fancymenu/assets/romangho_2.png"
@@ -98,11 +98,11 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/romangho_layout.txt"
-hash = "7ea64961aa50d078bfdbdf10da2f508b5db701b64ec56e2c543a88df9b310823"
+hash = "a1e733bb51b598f6f8a1d663c9d8a62fffcfeb570bb1787c15a013e570f6ca16"
 
 [[files]]
 file = "config/fancymenu/images/romangho_bg.png"
@@ -404,6 +404,11 @@ hash = "094dec5b61f1c60e6e82b01d68f5e079f05a63a460a32e0438a0955758a23746"
 [[files]]
 file = "mods/sodium-fabric-0.8.4+mc1.21.11.jar"
 hash = "96b81f512e032f0c3835b5bcfbb5f9778066b88725c40af9a8221c755a0d0a87"
+
+[[files]]
+file = "mods/songpacks-genshin-zip.pw.toml"
+hash = "a3873c9966b1cf2320efbe8d4ee83d5cb6287c8156b16f29a62ea699af0463ed"
+metafile = true
 
 [[files]]
 file = "mods/sounds-2.4.22+edge+1.21.11-fabric.jar"
