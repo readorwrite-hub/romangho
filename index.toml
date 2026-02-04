@@ -169,20 +169,12 @@ file = "mods/MagnumTorch-v21.11.0-mc1.21.11-Fabric.jar"
 hash = "24bc8cfe4451cdc562d0ef2fb2a1a6c8d5200effef68ceacadd213fee113f4cd"
 
 [[files]]
-file = "mods/MoogsVoyagerStructures-1.21-5.0.5.jar"
-hash = "a1dd26dbed9521e129942bf5a90542412751402bbf7d08513238bdba4513b537"
-
-[[files]]
 file = "mods/MouseTweaks-fabric-mc1.21.11-2.30.jar"
 hash = "e6718c6f35f6435294632b68ef8f251fe680bcd5324ffb4943daa41390c1c3c6"
 
 [[files]]
 file = "mods/PuzzlesLib-v21.11.6-mc1.21.11-Fabric.jar"
 hash = "bae4fe81da04d73c6623782b072245b532e8a5918d5ab596ec908f52a830aa3a"
-
-[[files]]
-file = "mods/[Fabric]ctov-1.21.11-3.6.1a.jar"
-hash = "f6ec389736b5d6bc734779170b621fb242f54b9c163fe9a3bb987b81f41b9b23"
 
 [[files]]
 file = "mods/architectury-19.0.1-fabric.jar"
@@ -241,10 +233,6 @@ file = "mods/doubledoors-1.21.11-7.2.jar"
 hash = "f1baa33099f86b970ddbc14990f3f749644b6fc81b8e3534034cac0c4d6c5697"
 
 [[files]]
-file = "mods/dungeons-and-taverns-v5.1.0.jar"
-hash = "8dc6be9b0ea195760197cbba66a0b770c6e9914e7534485dcab2e034e85f451c"
-
-[[files]]
 file = "mods/easy_npc-fabric-1.21.11-6.7.1.jar"
 hash = "7d5ab942d01f6f647ad8192355ef330dcd308d71e61f11fd47e22dd4fe904d8e"
 
@@ -285,10 +273,6 @@ file = "mods/geckolib-fabric-1.21.11-5.4.3.jar"
 hash = "134bf512a4bb3e21851692494c0b4dd89f4afc799cedec6a7d5f7694b6a77615"
 
 [[files]]
-file = "mods/gui-shop-2.0.0+1.21.11.jar"
-hash = "36c11b758fca709d97c2f484354e8cfb929ee358f36fa0cb0dbcfc40a2efa49f"
-
-[[files]]
 file = "mods/inventoryhud.fabric.1.21.11-3.4.29.jar"
 hash = "7c9e4d79c9ec0230c756c5d64a6c19d63be126c578cd44fb51eb1e98f100e5c1"
 
@@ -315,10 +299,6 @@ hash = "4a3b51449373c4df48de304db50667084802ad6ecdf3ed677a6e86e22a1d332f"
 [[files]]
 file = "mods/lambdynamiclights-4.9.1+1.21.11.jar"
 hash = "99bcfbb13cbd7c98ec9574c2959a1c6a145aac26efed54bcb32ebf08abf9282c"
-
-[[files]]
-file = "mods/lithostitched-1.5.7-fabric-1.21.11.jar"
-hash = "e59a82908201dbac55d7843e56ba57b7d1da8411e85ee2db59072a7d6f3633de"
 
 [[files]]
 file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
@@ -369,10 +349,6 @@ file = "mods/modmenu-17.0.0-beta.2.jar"
 hash = "01c40010072723ef2c62f9ae06d8aebbb52765aceb8f1b065bb36a37b3d4d7f1"
 
 [[files]]
-file = "mods/moogs_structure_lib-1.1.0-1.21.11-fabric.jar"
-hash = "dfef8c7ea48c8e8e26539adfb27470b500877de4028eb44528a9349a6ffa98c5"
-
-[[files]]
 file = "mods/mru-1.0.26+edge+1.21.11-fabric.jar"
 hash = "a41ce56e991cf39c91f9743860cab4bcd6a3b2c11f8a8a28686c0886e47f6244"
 
@@ -412,14 +388,6 @@ hash = "25864efeceab5ad40d5ced2d64e50d8ea0027bed5e5f6e42db7c03e5461a68ec"
 [[files]]
 file = "mods/spark-1.10.156-fabric.jar"
 hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
-
-[[files]]
-file = "mods/t_and_t-fabric-neoforge-1.13.8.jar"
-hash = "5421b29d3a85b5241abbc68e4219ae0df4ad25642ba97053513fa7c353e9bdc7"
-
-[[files]]
-file = "mods/trashslot-fabric-1.21.11-21.11.4.jar"
-hash = "699028d5c1ccc245c271e00faeba5f06189e31e5dd2b86f13727a83dc1db256e"
 
 [[files]]
 file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
