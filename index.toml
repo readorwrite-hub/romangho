@@ -181,6 +181,18 @@ file = "mods/architectury-19.0.1-fabric.jar"
 hash = "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7"
 
 [[files]]
+file = "mods/artifacts-fabric-13.2.0.jar"
+hash = "ca3ccbf0391bbacdb873e753063fb64704b844c79f8e7d92637ef6bcd748f7ef"
+
+[[files]]
+file = "mods/attributefix-fabric-1.21.11-21.11.1.jar"
+hash = "aeb15d81e32de678177f584f674c7b95798ca1962ff801130f1674660f0437bd"
+
+[[files]]
+file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
+hash = "a301296994a7ab048429d8d320f917667df415de9e39aa1abf81b1ff3cde4cc1"
+
+[[files]]
 file = "mods/balm-fabric-1.21.11-21.11.6.jar"
 hash = "f249eec690bd8e7cafb546af663e6310d7e77706cd6d914a2c912354115437d4"
 
@@ -301,12 +313,12 @@ file = "mods/lambdynamiclights-4.9.1+1.21.11.jar"
 hash = "99bcfbb13cbd7c98ec9574c2959a1c6a145aac26efed54bcb32ebf08abf9282c"
 
 [[files]]
-file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
-hash = "5dbf1d979c3b3932d693410c773bc695ddf60fd9a4d2302e34a6851d5981e5b2"
+file = "mods/levelz-2.0.7.jar"
+hash = "439428edc31d2addecab0ea698ac0993f6df5487497d86905edb8b058a11f685"
 
 [[files]]
-file = "mods/magnetitem-0.1.jar"
-hash = "69708e3eb3ebe059d64fe28b9b3fd86a9ff49b4dc4cb182796542d7b703773e6"
+file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
+hash = "5dbf1d979c3b3932d693410c773bc695ddf60fd9a4d2302e34a6851d5981e5b2"
 
 [[files]]
 file = "mods/mcw-doors-1.1.2-mc1.21.11fabric.jar"
@@ -357,14 +369,6 @@ file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
 hash = "bed45b897491288952a488cdda1fd267b88f2724d74d86d8d5e74a31881375b6"
 
 [[files]]
-file = "mods/puffish_attributes-0.8.1-1.21.11-fabric.jar"
-hash = "eaaa416247369b876c96c77e5e7113322991d747bfb8eae297785730389d127d"
-
-[[files]]
-file = "mods/puffish_skills-0.17.1-1.21.11-fabric.jar"
-hash = "00db538c6d34bb473d46bae47742b06c53b5e1127cbd4ff6c2cb29d154bc37a7"
-
-[[files]]
 file = "mods/reactive-music.pw.toml"
 hash = "a06632c9d11199deb623ea4ca5286cc4fb8152feb8dd537b2d5a57fe4e1d1910"
 metafile = true
@@ -392,6 +396,10 @@ hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
 [[files]]
 file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
 hash = "d617ad6e0489a88fe044b86ec6528f8121809cfcf576efd9c00db7e49281fbae"
+
+[[files]]
+file = "mods/trinkets-3.10.0.jar"
+hash = "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
 
 [[files]]
 file = "mods/waystones-fabric-1.21.11-21.11.4.jar"
