@@ -181,10 +181,6 @@ file = "mods/architectury-19.0.1-fabric.jar"
 hash = "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7"
 
 [[files]]
-file = "mods/artifacts-fabric-13.2.0.jar"
-hash = "ca3ccbf0391bbacdb873e753063fb64704b844c79f8e7d92637ef6bcd748f7ef"
-
-[[files]]
 file = "mods/attributefix-fabric-1.21.11-21.11.1.jar"
 hash = "aeb15d81e32de678177f584f674c7b95798ca1962ff801130f1674660f0437bd"
 
@@ -317,6 +313,10 @@ file = "mods/levelz-2.0.7.jar"
 hash = "439428edc31d2addecab0ea698ac0993f6df5487497d86905edb8b058a11f685"
 
 [[files]]
+file = "mods/libz-1.0.3.jar"
+hash = "e85e305994985246d91a51d80efd8b807e7c2f29c4c158cc2a7dba1952215fac"
+
+[[files]]
 file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
 hash = "5dbf1d979c3b3932d693410c773bc695ddf60fd9a4d2302e34a6851d5981e5b2"
 
@@ -367,6 +367,10 @@ hash = "a41ce56e991cf39c91f9743860cab4bcd6a3b2c11f8a8a28686c0886e47f6244"
 [[files]]
 file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
 hash = "bed45b897491288952a488cdda1fd267b88f2724d74d86d8d5e74a31881375b6"
+
+[[files]]
+file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
+hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
 
 [[files]]
 file = "mods/reactive-music.pw.toml"
