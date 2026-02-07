@@ -325,10 +325,6 @@ file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
 hash = "5dbf1d979c3b3932d693410c773bc695ddf60fd9a4d2302e34a6851d5981e5b2"
 
 [[files]]
-file = "mods/magnetic-3.9.1-1.21.11+fabric.jar"
-hash = "e905be5a9f7a736e5dee5459459ef7b18451f96918013c9a8b75103234accbda"
-
-[[files]]
 file = "mods/mcw-doors-1.1.2-mc1.21.11fabric.jar"
 hash = "69e96719fdfe14ee2599351e934b1fcec42b7c5dd659d17d65f4cac2679c5f72"
 
