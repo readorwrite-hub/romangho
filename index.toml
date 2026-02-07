@@ -185,8 +185,8 @@ file = "mods/attributefix-fabric-1.21.11-21.11.1.jar"
 hash = "aeb15d81e32de678177f584f674c7b95798ca1962ff801130f1674660f0437bd"
 
 [[files]]
-file = "mods/automobility-0.5.0.h+1.21.1-fabric.jar"
-hash = "a301296994a7ab048429d8d320f917667df415de9e39aa1abf81b1ff3cde4cc1"
+file = "mods/audioplayer-fabric-2.1.0+1.21.11.jar"
+hash = "2cbbe8ec2bdebd92a81e29cb1c30dc17a75ef1f8fd9cea6fdc661708e274fd21"
 
 [[files]]
 file = "mods/balm-fabric-1.21.11-21.11.6.jar"
@@ -253,6 +253,10 @@ file = "mods/easy_npc_config_ui-fabric-1.21.11-6.7.1.jar"
 hash = "34b222e90431337b1981eb603f7be8fd747c1f6798bfd0de495a70ca74bfc53c"
 
 [[files]]
+file = "mods/enchdesc-fabric-1.21.11-21.11.1.jar"
+hash = "efcafe24e23c0def949dfa76f8527c3c9a779dd19006cde4abce2166422f6407"
+
+[[files]]
 file = "mods/entity-health-bars-1.0.7.jar"
 hash = "e5669496711f5a04e3aa7cc4e66caffdbaa5e6cbba6c8317ace743b37b18c4b3"
 
@@ -275,6 +279,10 @@ hash = "c3b3f29bb7f4bb50242a2b6eef6b3878b8807c70c96105971909a0328aecf2a6"
 [[files]]
 file = "mods/ferritecore-8.2.0-fabric.jar"
 hash = "f76bd760cbf48280cc7c43180f5089a46235fa24d934a8acf3da04a664c2c715"
+
+[[files]]
+file = "mods/foodeffecttooltips-2.1.2+1.21.11.jar"
+hash = "cee95de5a63be7e274712bf4561baf6bb684561f6f14787fa0537d98dfca7804"
 
 [[files]]
 file = "mods/geckolib-fabric-1.21.11-5.4.3.jar"
@@ -309,16 +317,12 @@ file = "mods/lambdynamiclights-4.9.1+1.21.11.jar"
 hash = "99bcfbb13cbd7c98ec9574c2959a1c6a145aac26efed54bcb32ebf08abf9282c"
 
 [[files]]
-file = "mods/levelz-2.0.7.jar"
-hash = "439428edc31d2addecab0ea698ac0993f6df5487497d86905edb8b058a11f685"
-
-[[files]]
-file = "mods/libz-1.0.3.jar"
-hash = "e85e305994985246d91a51d80efd8b807e7c2f29c4c158cc2a7dba1952215fac"
-
-[[files]]
 file = "mods/lootr-fabric-1.21.11-1.19.33.100.jar"
 hash = "5dbf1d979c3b3932d693410c773bc695ddf60fd9a4d2302e34a6851d5981e5b2"
+
+[[files]]
+file = "mods/magnetic-3.9.1-1.21.11+fabric.jar"
+hash = "e905be5a9f7a736e5dee5459459ef7b18451f96918013c9a8b75103234accbda"
 
 [[files]]
 file = "mods/mcw-doors-1.1.2-mc1.21.11fabric.jar"
@@ -369,13 +373,16 @@ file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
 hash = "bed45b897491288952a488cdda1fd267b88f2724d74d86d8d5e74a31881375b6"
 
 [[files]]
-file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
-hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
+file = "mods/pb-skills-1.21.11-4.1.4.jar"
+hash = "d2e65564b3082ab319b5f0fafe1c47168db15ebfe5b985e990fc6ba113ec942e"
 
 [[files]]
-file = "mods/reactive-music.pw.toml"
-hash = "a06632c9d11199deb623ea4ca5286cc4fb8152feb8dd537b2d5a57fe4e1d1910"
-metafile = true
+file = "mods/player-graves-1.3.1.jar"
+hash = "f04a9a9afca0bd0ca2992de3946a2089667e7ef33784de1833811a4a15e3c2a1"
+
+[[files]]
+file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
+hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
 
 [[files]]
 file = "mods/repurposed_structures-7.6.0+1.21.11-fabric.jar"
@@ -402,8 +409,8 @@ file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
 hash = "d617ad6e0489a88fe044b86ec6528f8121809cfcf576efd9c00db7e49281fbae"
 
 [[files]]
-file = "mods/trinkets-3.10.0.jar"
-hash = "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f"
+file = "mods/voicechat-fabric-1.21.11-2.6.11.jar"
+hash = "1b5fe15fee0655ead032762b95a35d07cbbe0dfd21c25ee0b5247ac9d1b9353b"
 
 [[files]]
 file = "mods/waystones-fabric-1.21.11-21.11.4.jar"
@@ -433,8 +440,3 @@ hash = "23a7838bce8eff9c42e1ae6dddb43ee40e98920b5972ee4c303ebef91e5ee1b1"
 [[files]]
 file = "shaderpacks/BSL_v10.1p1.zip"
 hash = "aca54360ec808b5c11e9a5bdaa5516ad9eaee494225c0199580103650bf74f59"
-
-[[files]]
-file = "songpacks/genshin.pw.toml"
-hash = "a598c11498a840a1344929e81cd4c4184fa58d5767b6eeda023493dfde0162a1"
-metafile = true
