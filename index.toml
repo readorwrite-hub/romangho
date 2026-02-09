@@ -153,6 +153,10 @@ file = "mods/EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar"
 hash = "4d6537c4d0550a78d0f34f9092064cf35fdbd310e155082c0e509fb7fcca3f56"
 
 [[files]]
+file = "mods/FarmersDelight-1.21.11-3.4.6+refabricated.jar"
+hash = "c99cf4122f76b2e51561c53e8943d8e3f6d2fd4caf6a06af262a3832f776c1aa"
+
+[[files]]
 file = "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar"
 hash = "31a0686904fad1cfdeb1d6b011ac1c2280990d6e76ac2416468147e2246b4db1"
 
@@ -225,10 +229,6 @@ file = "mods/collective-1.21.11-8.13.jar"
 hash = "f79aa00b159be2ca65421557872939d1aa3532f4f91066fa38b8ab9c0265d2ef"
 
 [[files]]
-file = "mods/cristellib-fabric-1.21.11-3.0.4.jar"
-hash = "9cbd89926b42d18e67e03b031dd8adb6d94177cd2c515053177e27c56e3b2e98"
-
-[[files]]
 file = "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar"
 hash = "6b45bbaa330321705dca8543a5dee53aefcbcc68c507f8ca8445a957d186e53f"
 
@@ -277,6 +277,10 @@ file = "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
 hash = "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91"
 
 [[files]]
+file = "mods/fallingleaves-2.0.3+1.21.11.jar"
+hash = "36bdecf1f92acaf1e45420575721f62513a45c2e11f7a0c3397570df95d8012d"
+
+[[files]]
 file = "mods/fancymenu_fabric_3.8.3_MC_1.21.11.jar"
 hash = "c3b3f29bb7f4bb50242a2b6eef6b3878b8807c70c96105971909a0328aecf2a6"
 
@@ -293,8 +297,8 @@ file = "mods/geckolib-fabric-1.21.11-5.4.3.jar"
 hash = "134bf512a4bb3e21851692494c0b4dd89f4afc799cedec6a7d5f7694b6a77615"
 
 [[files]]
-file = "mods/inventoryhud.fabric.1.21.11-3.4.29.jar"
-hash = "7c9e4d79c9ec0230c756c5d64a6c19d63be126c578cd44fb51eb1e98f100e5c1"
+file = "mods/graves-3.10.2+1.21.11.jar"
+hash = "65f4776ea6be9e9646384e80e0c8cb135b738eb0117166902da5d0f5209822c1"
 
 [[files]]
 file = "mods/inventorysorter-fabric-2.1.4+mc1.21.11.jar"
@@ -377,10 +381,6 @@ file = "mods/pb-skills-1.21.11-4.1.4.jar"
 hash = "2e8591bef52e2176d64ffad5f5c43260e7b4ba73b596cab5e01e9dd63c8faa15"
 
 [[files]]
-file = "mods/player-graves-1.3.1.jar"
-hash = "f04a9a9afca0bd0ca2992de3946a2089667e7ef33784de1833811a4a15e3c2a1"
-
-[[files]]
 file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
 hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
 
@@ -407,6 +407,10 @@ hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
 [[files]]
 file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
 hash = "d617ad6e0489a88fe044b86ec6528f8121809cfcf576efd9c00db7e49281fbae"
+
+[[files]]
+file = "mods/visuality-0.7.12+1.21.11.jar"
+hash = "d87ee7e0eb239cef1934d2fb00e2b05affb6e93ed28a796031512aa17c785abe"
 
 [[files]]
 file = "mods/voicechat-fabric-1.21.11-2.6.11.jar"
