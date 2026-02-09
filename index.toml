@@ -381,6 +381,10 @@ file = "mods/pb-skills-1.21.11-4.1.4.jar"
 hash = "2e8591bef52e2176d64ffad5f5c43260e7b4ba73b596cab5e01e9dd63c8faa15"
 
 [[files]]
+file = "mods/polymer-bundled-0.15.2+1.21.11.jar"
+hash = "2dfc65322e8ac7caed28cdd9a9836516c75fa880494112c03b4ee85ddccf44ed"
+
+[[files]]
 file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
 hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
 
