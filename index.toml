@@ -273,6 +273,10 @@ file = "mods/fabric-api-0.141.2+1.21.11.jar"
 hash = "6c1d0c4fdd2d82b56073188e4cad2882c80e0ed9227ca373469a420d1cf6a974"
 
 [[files]]
+file = "mods/fabric-api-0.141.3+1.21.11.jar"
+hash = "86c453a86139662e775697d03b0ca7867f547374868c0cb3e3dc06f98dbfeef5"
+
+[[files]]
 file = "mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar"
 hash = "fecd5e6dd6ae76814ba92136b417912c19b19ec76ea451cede472cd29cdecf91"
 
