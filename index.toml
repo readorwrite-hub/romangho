@@ -309,6 +309,10 @@ file = "mods/iris-fabric-1.10.5+mc1.21.11.jar"
 hash = "616d64a2522a7c864835175fd929c675b8d00a7fa37c8cc3c601f6034b90a09e"
 
 [[files]]
+file = "mods/jobsplus-19.0.9-fabric.jar"
+hash = "3432ec76e72e330abf977c5d12cef7cbd28b7eac2a224777891481203ad19966"
+
+[[files]]
 file = "mods/journeymap-fabric-1.21.11-6.0.0-beta.55.jar"
 hash = "6f27dce46441b71d233dac183d288080f5342844decba6570ceb9028faab0104"
 
@@ -375,10 +379,6 @@ hash = "a41ce56e991cf39c91f9743860cab4bcd6a3b2c11f8a8a28686c0886e47f6244"
 [[files]]
 file = "mods/notenoughanimations-fabric-1.11.1-mc1.21.11.jar"
 hash = "bed45b897491288952a488cdda1fd267b88f2724d74d86d8d5e74a31881375b6"
-
-[[files]]
-file = "mods/pb-skills-1.21.11-4.1.4.jar"
-hash = "2e8591bef52e2176d64ffad5f5c43260e7b4ba73b596cab5e01e9dd63c8faa15"
 
 [[files]]
 file = "mods/polymer-bundled-0.15.2+1.21.11.jar"
