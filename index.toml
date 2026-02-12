@@ -181,6 +181,10 @@ file = "mods/PuzzlesLib-v21.11.6-mc1.21.11-Fabric.jar"
 hash = "bae4fe81da04d73c6623782b072245b532e8a5918d5ab596ec908f52a830aa3a"
 
 [[files]]
+file = "mods/arc-19.0.4-fabric.jar"
+hash = "c7d7f80f5e28f89e81835d63ab2eb846a6d6e8237b7385906e1d3c618f4110ea"
+
+[[files]]
 file = "mods/architectury-19.0.1-fabric.jar"
 hash = "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7"
 
@@ -313,6 +317,10 @@ file = "mods/iris-fabric-1.10.5+mc1.21.11.jar"
 hash = "616d64a2522a7c864835175fd929c675b8d00a7fa37c8cc3c601f6034b90a09e"
 
 [[files]]
+file = "mods/itemrestrictions-19.0.1-fabric.jar"
+hash = "023500b846a6543b2899a0da0d8cc80de282dac34bfaf852e87711f56d92e74f"
+
+[[files]]
 file = "mods/jobsplus-19.0.9-fabric.jar"
 hash = "3432ec76e72e330abf977c5d12cef7cbd28b7eac2a224777891481203ad19966"
 
@@ -417,6 +425,10 @@ file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
 hash = "d617ad6e0489a88fe044b86ec6528f8121809cfcf576efd9c00db7e49281fbae"
 
 [[files]]
+file = "mods/uilib-19.0.2-fabric.jar"
+hash = "39e6c65d7556822b6ff995b5df765504b0cbc9773bc3bc59065d3d0b96697df7"
+
+[[files]]
 file = "mods/visuality-0.7.12+1.21.11.jar"
 hash = "d87ee7e0eb239cef1934d2fb00e2b05affb6e93ed28a796031512aa17c785abe"
 
@@ -436,6 +448,10 @@ hash = "864eb12f12291643457143919cfbf685a1afa620a65c2dcb377c2f21132a0eb0"
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
+
+[[files]]
+file = "mods/yamlconfig-19.0.1-fabric.jar"
+hash = "2c61df193d8e8446afeac2edb78e979461d8c3553a0ab4d8e398d05fdf3e0e66"
 
 [[files]]
 file = "mods/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar"
