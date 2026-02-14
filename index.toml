@@ -325,6 +325,10 @@ file = "mods/jobsplus-19.0.9-fabric.jar"
 hash = "5b5b73cebe37555d29140e4d9c1dc603af49815df79607886e9711bff8aa4482"
 
 [[files]]
+file = "mods/jobsplustools-19.0.3.jar"
+hash = "91dc6797c3a3eb2b73662b09472be58b6e7a0724b00e06e86f6e5c82117feebf"
+
+[[files]]
 file = "mods/journeymap-fabric-1.21.11-6.0.0-beta.55.jar"
 hash = "6f27dce46441b71d233dac183d288080f5342844decba6570ceb9028faab0104"
 
