@@ -10,11 +10,11 @@ hash = "d16d31af49c45af4e8b371efa066e0a16a262e6afb575415b16450a7e96fa2c5"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cd418860ea353b0e1c8d198b44bff443ff3743628331c3bb7780629fa932fabf"
+hash = "402f1cf24c3886943658ba2ffcdee0ce0fb47faacdf84a35ce05e6c72819921b"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt.default"
-hash = "cd418860ea353b0e1c8d198b44bff443ff3743628331c3bb7780629fa932fabf"
+hash = "402f1cf24c3886943658ba2ffcdee0ce0fb47faacdf84a35ce05e6c72819921b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -138,15 +138,15 @@ hash = "346d31902bb27ca558038f5f72558add5f87788941c9e1191c46cb37bb042194"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.fullmap.config"
-hash = "59f5dbc03eef9ebf1ec7c61d74bf384b0f6cfa54ed42c1e3519a702f778d6cdf"
+hash = "ce8fcc6be6bdd3c07e701019250f4cb15d4cb0313fc1a000a3d3abcaa6cce3fe"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "76775785063db9aeedbde0ff26f2983e52525ff632098a1fcd85014ef5572588"
+hash = "032b69bf9fcd4187c3f0c665af759c66d537b5d0bbcaf1998762e59cb694b60a"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.waypoint.config"
-hash = "9794ee2304254b0d1bb8c472235228650f861b1c4f2898a8be3bdec84a26df8e"
+hash = "d0fa857dc31ddcdf92d5231a32245b85381f271485b23c6d2c0b75a4d68bebb7"
 
 [[files]]
 file = "mods/EnchantingInfuser-v21.11.1-mc1.21.11-Fabric.jar"
