@@ -405,6 +405,10 @@ file = "mods/prickle-fabric-1.21.11-21.11.1.jar"
 hash = "015e75ca62f611aa38725d32cd9065e9ef0147bae49c8b887a67efdc6923822a"
 
 [[files]]
+file = "mods/quickleafdecay-mc1.21.11-0.4.1.jar"
+hash = "c1ed69f3e1bb9290001d100cb25dfd2f06a9bf6509533b78f6cb56e5451c6ade"
+
+[[files]]
 file = "mods/repurposed_structures-7.6.0+1.21.11-fabric.jar"
 hash = "d88cd49629d1c0fbe1f6fddcc684be881996fc112f65a58ca338d62057076fca"
 
