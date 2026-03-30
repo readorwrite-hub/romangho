@@ -185,6 +185,10 @@ file = "mods/ResourcefulLib-fabric-1.21.11-3.11.0.jar"
 hash = "7d3d4a78b567b99925762db1face1d7daec6e59a9c8be27da0bade67c02fd1a2"
 
 [[files]]
+file = "mods/RoughlyEnoughItems-21.11.814-fabric.jar"
+hash = "691724fa549848658556a899dacf2bcb924968298bbd194294a20fe4b2e558d1"
+
+[[files]]
 file = "mods/arc-19.0.4-fabric.jar"
 hash = "c7d7f80f5e28f89e81835d63ab2eb846a6d6e8237b7385906e1d3c618f4110ea"
 
