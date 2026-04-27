@@ -197,6 +197,10 @@ file = "mods/architectury-19.0.1-fabric.jar"
 hash = "661395d6f0bef0d3a794e2db74df5600c7387ba6fb946b172315977201a667c7"
 
 [[files]]
+file = "mods/artifacts-fabric-14.0.3.jar"
+hash = "360f3105c5c7c3d4f73ad73037493a33b247dbb0a918525c5897fa339faaa7d7"
+
+[[files]]
 file = "mods/attributefix-fabric-1.21.11-21.11.1.jar"
 hash = "aeb15d81e32de678177f584f674c7b95798ca1962ff801130f1674660f0437bd"
 
@@ -439,6 +443,10 @@ hash = "36ed138ffde2a2f1fcb32ecbcc7fa21beaf1611e003d19e3ad40954873e572fa"
 [[files]]
 file = "mods/travelersbackpack-fabric-1.21.11-10.11.5.jar"
 hash = "d617ad6e0489a88fe044b86ec6528f8121809cfcf576efd9c00db7e49281fbae"
+
+[[files]]
+file = "mods/trinkets-3.11.0-beta.2+1.21.11.jar"
+hash = "ab2f55afad3b68a082ed59063a7f49941d1011f92c7083ba56b43e2ea313cbfc"
 
 [[files]]
 file = "mods/uilib-19.0.2-fabric.jar"
